@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">posielanie a zobrazovanie SMS</string>
+  <string name="permgroupdesc_phone">telefonovanie a správu hovorov</string>
+  <string name="permlab_sendSms">posielať a zobrazovať SMS</string>
+  <string name="permlab_readSms">čítať textové správy (SMS alebo MMS)</string>
+  <string name="permlab_accessFineLocation">prístup k presnej polohe (pomocou GPS a siete)</string>
+  <string name="permlab_callPhone">priamo volať na telefónne čísla</string>
+  <string name="permlab_changeWifiState">pripojiť a odpojiť od siete Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">pristupovať k nastaveniam Bluetooth</string>
+</resources>

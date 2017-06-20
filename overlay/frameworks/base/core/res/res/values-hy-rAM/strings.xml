@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">ուղարկել և դիտել SMS-ները</string>
+  <string name="permgroupdesc_phone">կատարել զանգեր և կառավարել զանգերը</string>
+  <string name="permlab_sendSms">SMS հաղորդագրությունների ուղարկում և ընթերցում</string>
+  <string name="permlab_readSms">կարդալ ձեր տեքստային հաղորդագրությունները (SMS կամ MMS)</string>
+  <string name="permlab_accessFineLocation">օգտագործել ճշգրիտ տեղադրությունը (GPS և ցանցային)</string>
+  <string name="permlab_callPhone">ուղղակիորեն զանգել հեռախոսահամարներին</string>
+  <string name="permlab_changeWifiState">միանալ Wi-Fi-ին և անջատվել դրանից</string>
+  <string name="permlab_bluetoothAdmin">մուտք գործել Bluetooth-ի կարգավորումներ</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">[šéñð åñð Vîéŵ ŠḾŠ ḿéššåĝéš one two three four]</string>
+  <string name="permgroupdesc_phone">[ḿåķé åñð ḿåñåĝé þĥöñé çåļļš one two three four]</string>
+  <string name="permlab_sendSms">[šéñð åñð Vîéŵ ŠḾŠ ḿéššåĝéš one two three four]</string>
+  <string name="permlab_readSms">[ŕéåð ýöûŕ ţéхţ ḿéššåĝéš (ŠḾŠ öŕ ḾḾŠ) one two three four five]</string>
+  <string name="permlab_accessFineLocation">[åççéšš þŕéçîšé ļöçåţîöñ (ĜÞŠ åñð ñéţŵöŕķ-ɓåšéð) one two three four five six]</string>
+  <string name="permlab_callPhone">[ðîŕéçţļý çåļļ þĥöñé ñûḿɓéŕš one two three four]</string>
+  <string name="permlab_changeWifiState">[çöññéçţ åñð ðîšçöññéçţ ƒŕöḿ Ŵî-Fî one two three four]</string>
+  <string name="permlab_bluetoothAdmin">[åççéšš βļûéţööţĥ šéţţîñĝš one two three]</string>
+</resources>

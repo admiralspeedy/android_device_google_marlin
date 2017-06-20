@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMSメッセージの送信と表示</string>
+  <string name="permgroupdesc_phone">電話の発信と管理</string>
+  <string name="permlab_sendSms">SMSメッセージの送信と表示</string>
+  <string name="permlab_readSms">テキストメッセージ（SMSまたはMMS）の読み取り</string>
+  <string name="permlab_accessFineLocation">正確な位置情報（GPSとネットワーク基地局）へのアクセス</string>
+  <string name="permlab_callPhone">電話番号発信</string>
+  <string name="permlab_changeWifiState">Wi-Fiからの接続と切断</string>
+  <string name="permlab_bluetoothAdmin">Bluetoothの設定へのアクセス</string>
+</resources>

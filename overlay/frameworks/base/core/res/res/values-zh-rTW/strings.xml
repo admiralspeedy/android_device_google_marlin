@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">傳送及查看簡訊</string>
+  <string name="permgroupdesc_phone">撥打電話及管理通話</string>
+  <string name="permlab_sendSms">傳送及查看簡訊</string>
+  <string name="permlab_readSms">讀取您的簡訊 (SMS 或 MMS)</string>
+  <string name="permlab_accessFineLocation">存取精確位置 (以 GPS 和網路為依據)</string>
+  <string name="permlab_callPhone">直接撥打電話號碼</string>
+  <string name="permlab_changeWifiState">建立及中斷 Wi-Fi 連線</string>
+  <string name="permlab_bluetoothAdmin">存取藍牙設定</string>
+</resources>

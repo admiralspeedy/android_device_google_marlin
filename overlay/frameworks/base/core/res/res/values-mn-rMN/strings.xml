@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS мессежийг илгээх, харах</string>
+  <string name="permgroupdesc_phone">утасны дуудлага хийх, дуудлага удирдах</string>
+  <string name="permlab_sendSms">SMS мессежийг илгээх, харах</string>
+  <string name="permlab_readSms">таны текст мессежийг унших(SMS эсвэл MMS)</string>
+  <string name="permlab_accessFineLocation">тодорхой байршилд хандах (GPS, сүлжээнд суурилсан)</string>
+  <string name="permlab_callPhone">утасны дугаарт шууд дуудлага хийх</string>
+  <string name="permlab_changeWifiState">Wi-Fi -тай холбогдох болон салах</string>
+  <string name="permlab_bluetoothAdmin">Bluetooth тохиргоонд хандах</string>
+</resources>

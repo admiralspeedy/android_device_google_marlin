@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">отправлять и просматривать SMS-сообщения</string>
+  <string name="permgroupdesc_phone">осуществление телефонных звонков и управление ими</string>
+  <string name="permlab_sendSms">отправка и просмотр SMS-сообщений</string>
+  <string name="permlab_readSms">Просмотр SMS и MMS</string>
+  <string name="permlab_accessFineLocation">Доступ к точному местоположению (по координатам сети и спутникам GPS)</string>
+  <string name="permlab_callPhone">Осуществление телефонных вызовов</string>
+  <string name="permlab_changeWifiState">Подключение/отключение от сети Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">Доступ к настройкам Bluetooth</string>
+</resources>

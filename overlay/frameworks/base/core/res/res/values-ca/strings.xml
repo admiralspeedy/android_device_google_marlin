@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">enviar i llegir missatges SMS</string>
+  <string name="permgroupdesc_phone">fer i gestionar trucades telefòniques</string>
+  <string name="permlab_sendSms">envia i llegeix missatges SMS</string>
+  <string name="permlab_readSms">lectura dels missatges de text (SMS o MMS)</string>
+  <string name="permlab_accessFineLocation">accedir a la ubicació precisa (basada en el GPS i en la xarxa)</string>
+  <string name="permlab_callPhone">trucar directament a números de telèfon</string>
+  <string name="permlab_changeWifiState">connectar-se a xarxes Wi-Fi i desconnectar-se</string>
+  <string name="permlab_bluetoothAdmin">accés a la configuració de Bluetooth</string>
+</resources>

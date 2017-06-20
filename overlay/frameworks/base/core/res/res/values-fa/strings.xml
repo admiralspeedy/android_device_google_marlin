@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">ارسال و مشاهده پیامک‌ها</string>
+  <string name="permgroupdesc_phone">برقراری و مدیریت تماس‌های تلفنی</string>
+  <string name="permlab_sendSms">ارسال و نمایش پیام‌های پیامک</string>
+  <string name="permlab_readSms">خواندن پیام‌های نوشتاری شما (پیامک یا فراپیام)</string>
+  <string name="permlab_accessFineLocation">‏دسترسی به مکان دقیق (مبتنی بر GPS و شبکه)</string>
+  <string name="permlab_callPhone">تماس مستقیم با شماره تلفن‌ها</string>
+  <string name="permlab_changeWifiState">‏اتصال به Wi-Fi و قطع اتصال از آن</string>
+  <string name="permlab_bluetoothAdmin">دسترسی به تنظیمات بلوتوث</string>
+</resources>

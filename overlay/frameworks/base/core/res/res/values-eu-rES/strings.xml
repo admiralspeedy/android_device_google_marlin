@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS mezuak bidaltzeko eta ikusteko</string>
+  <string name="permgroupdesc_phone">telefono-deiak egiteko eta kudeatzeko</string>
+  <string name="permlab_sendSms">bidali eta ikusi SMS mezuak</string>
+  <string name="permlab_readSms">testu-mezuak (SMSak edo MMSak) irakurtzea</string>
+  <string name="permlab_accessFineLocation">Atzitu kokapen zehatza (GPS sisteman eta sarean oinarrituta)</string>
+  <string name="permlab_callPhone">deitu zuzenean telefono-zenbakietara</string>
+  <string name="permlab_changeWifiState">Wi-Fira konektatzea edo bertatik deskonektatzea</string>
+  <string name="permlab_bluetoothAdmin">Bluetooth-ezarpenak atzitzea</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">slati i pregledavati SMS poruke</string>
+  <string name="permgroupdesc_phone">uspostavljati telefonske pozive i upravljati njima</string>
+  <string name="permlab_sendSms">slati i pregledavati SMS poruke</string>
+  <string name="permlab_readSms">čitanje tekstnih poruka (SMS ili MMS)</string>
+  <string name="permlab_accessFineLocation">pristupati preciznoj lokaciji (na temelju GPS-a i mreža)</string>
+  <string name="permlab_callPhone">izravno pozivanje telefonskog broja</string>
+  <string name="permlab_changeWifiState">uspostavljanje i prekidanje veze s Wi-Fi mrežom</string>
+  <string name="permlab_bluetoothAdmin">pristupanje postavkama Bluetootha</string>
+</resources>

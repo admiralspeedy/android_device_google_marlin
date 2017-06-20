@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">sende og se sms-beskeder</string>
+  <string name="permgroupdesc_phone">foretage og administrere telefonopkald</string>
+  <string name="permlab_sendSms">Send og se sms-beskeder</string>
+  <string name="permlab_readSms">læse dine tekstbeskeder (sms eller mms)</string>
+  <string name="permlab_accessFineLocation">få adgang til nøjagtig placering (baseret på GPS og netværk)</string>
+  <string name="permlab_callPhone">ringe direkte op til telefonnumre</string>
+  <string name="permlab_changeWifiState">oprette og afbryde Wi-Fi-forbindelse</string>
+  <string name="permlab_bluetoothAdmin">få adgang til Bluetooth-indstillinger</string>
+</resources>

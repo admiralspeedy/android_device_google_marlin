@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">"sms'jes verzenden en bekijken"</string>
+  <string name="permgroupdesc_phone">telefoneren en oproepen beheren</string>
+  <string name="permlab_sendSms">"sms'jes verzenden en bekijken"</string>
+  <string name="permlab_readSms">je tekstberichten (SMS of MMS) lezen</string>
+  <string name="permlab_accessFineLocation">toegang tot precieze locatie (gps- en netwerkgebaseerd)</string>
+  <string name="permlab_callPhone">telefoonnummers rechtstreeks bellen</string>
+  <string name="permlab_changeWifiState">Wifi-verbinding maken en verbreken</string>
+  <string name="permlab_bluetoothAdmin">Bluetooth-instellingen openen</string>
+</resources>

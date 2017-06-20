@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS билдирүүлөрдү жиберүү жана көрсөтүү</string>
+  <string name="permgroupdesc_phone">телефон чалуу жана аларды башкаруу</string>
+  <string name="permlab_sendSms">SMS билдирүүлөрдү жиберүү жана көрсөтүү</string>
+  <string name="permlab_readSms">билдирүүлөрүңүздү (SMS же MMS) окуу</string>
+  <string name="permlab_accessFineLocation">так аныкталган жайгашкан жерге (GPS жана тармактын негизинде) уруксат</string>
+  <string name="permlab_callPhone">телефон номерлерине түз чалуу</string>
+  <string name="permlab_changeWifiState">Wi-Fi менен туташуу жана ажыратуу</string>
+  <string name="permlab_bluetoothAdmin">Bluetooth тууралоолоруна жетки алуу</string>
+</resources>

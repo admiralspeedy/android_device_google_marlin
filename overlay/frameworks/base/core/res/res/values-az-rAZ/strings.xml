@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">göndərin və SMS mesajlarına baxın</string>
+  <string name="permgroupdesc_phone">telefon zəngləri edin və onları idarə edin</string>
+  <string name="permlab_sendSms">göndərin və SMS mesajlarına baxın</string>
+  <string name="permlab_readSms">tekst mesajlarınızı oxuyur (SMS və ya MMS)</string>
+  <string name="permlab_accessFineLocation">dəqiq məkana (GPS və şəbəkə əsasında) giriş</string>
+  <string name="permlab_callPhone">telefon nömrələrinə birbaşa zəng edir</string>
+  <string name="permlab_changeWifiState">Wi-Fi şəbəkəsinə qoşulmaq və ya ayrılmaq</string>
+  <string name="permlab_bluetoothAdmin">Bluetooth ayarlarını əldə edir</string>
+</resources>

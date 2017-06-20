@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">στέλνει και να διαβάζει μηνύματα SMS</string>
+  <string name="permgroupdesc_phone">πραγματοποιεί και να διαχειρίζεται τηλ/κές κλήσεις</string>
+  <string name="permlab_sendSms">στέλνει και να διαβάζει μηνύματα SMS</string>
+  <string name="permlab_readSms">διαβάζει τα μηνύματα κειμένου (SMS ή MMS)</string>
+  <string name="permlab_accessFineLocation">έχει πρόσβαση στην ακριβή τοποθεσία (με βάση το GPS και το δίκτυο)</string>
+  <string name="permlab_callPhone">πραγματοποιεί απευθείας κλήση τηλεφωνικών αριθμών</string>
+  <string name="permlab_changeWifiState">συνδέεται/αποσυνδέεται από το Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">διαβάζει τις ρυθμίσεις Bluetooth</string>
+</resources>

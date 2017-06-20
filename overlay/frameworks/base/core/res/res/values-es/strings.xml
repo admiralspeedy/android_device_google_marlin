@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">enviar y ver mensajes SMS</string>
+  <string name="permgroupdesc_phone">hacer y administrar llamadas telefónicas</string>
+  <string name="permlab_sendSms">enviar y ver mensajes SMS</string>
+  <string name="permlab_readSms">leer tus mensajes de texto (SMS o MMS)</string>
+  <string name="permlab_accessFineLocation">acceder a tu ubicación precisa (basada en red y GPS)</string>
+  <string name="permlab_callPhone">llamar directamente a números de teléfono</string>
+  <string name="permlab_changeWifiState">conectarse a redes Wi-Fi y desconectarse</string>
+  <string name="permlab_bluetoothAdmin">acceder a los ajustes de Bluetooth</string>
+</resources>

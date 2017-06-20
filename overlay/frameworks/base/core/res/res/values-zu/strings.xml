@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">thumela uphinde ubuke imilayezo ye-SMS</string>
+  <string name="permgroupdesc_phone">yenza uphinde uphathe amakholi wefoni</string>
+  <string name="permlab_sendSms">thumela uphinde ubuke imilayezo ye-SMS</string>
+  <string name="permlab_readSms">funda imilayezo yakho ebhaliwe (i-SMS noma i-MMS)</string>
+  <string name="permlab_accessFineLocation">finyelela indawo enembile (i-GPS nesuselwa kunethiwekhi)</string>
+  <string name="permlab_callPhone">ngokuqondile shayela izinombolo zocingo</string>
+  <string name="permlab_changeWifiState">xhuma uphinde unqamule kwi-Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">finyelela kuzilungiselelo ze-Bluetooth</string>
+</resources>

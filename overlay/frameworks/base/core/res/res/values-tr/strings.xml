@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS iletileri gönderme ve görüntüleme</string>
+  <string name="permgroupdesc_phone">telefon aramaları yapma ve çağrıları yönetme</string>
+  <string name="permlab_sendSms">SMS iletileri gönderme ve görüntüleme</string>
+  <string name="permlab_readSms">kısa mesajlarımı (SMS veya MMS) oku</string>
+  <string name="permlab_accessFineLocation">konum bilgilerine hassas olarak erişme (GPS ve ağ tabanlı)</string>
+  <string name="permlab_callPhone">telefon numaralarına doğrudan çağrı yap</string>
+  <string name="permlab_changeWifiState">Kablosuza bağlanma veya Kablosuz bağlantısını kesme</string>
+  <string name="permlab_bluetoothAdmin">Bluetooth ayarlarına erişme</string>
+</resources>

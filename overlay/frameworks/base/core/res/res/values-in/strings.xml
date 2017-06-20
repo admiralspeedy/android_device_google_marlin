@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">mengirim dan melihat pesan SMS</string>
+  <string name="permgroupdesc_phone">melakukan dan mengelola panggilan telepon</string>
+  <string name="permlab_sendSms">mengirim dan melihat pesan SMS</string>
+  <string name="permlab_readSms">membaca pesan teks (SMS atau MMS) Anda</string>
+  <string name="permlab_accessFineLocation">akses lokasi akurat (berbasis jaringan dan GPS)</string>
+  <string name="permlab_callPhone">panggil nomor telepon secara langsung</string>
+  <string name="permlab_changeWifiState">sambung dan putuskan Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">akses setelan Bluetooth</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">‏SMS پیغامات بھیجیں اور دیکھیں</string>
+  <string name="permgroupdesc_phone">فون کالز کریں اور ان کا نظم کریں</string>
+  <string name="permlab_sendSms">‏SMS پیغامات بھیجیں اور دیکھیں</string>
+  <string name="permlab_readSms">‏اپنے متنی پیغامات (SMS یا MMS) کو پڑھیں</string>
+  <string name="permlab_accessFineLocation">‏قطعی مقام تک رسائی حاصل کریں (GPS اور نیٹ ورک پر مبنی)</string>
+  <string name="permlab_callPhone">براہ راست فون نمبرز پر کال کریں</string>
+  <string name="permlab_changeWifiState">‏Wi-Fi سے مربوط اور غیر مربوط کریں</string>
+  <string name="permlab_bluetoothAdmin">بلوٹوتھ کی ترتیبات تک رسائی حاصل کریں</string>
+</resources>

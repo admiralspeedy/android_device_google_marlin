@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS 메시지 전송 및 보기</string>
+  <string name="permgroupdesc_phone">전화 걸기 및 관리</string>
+  <string name="permlab_sendSms">SMS 메시지 전송 및 보기</string>
+  <string name="permlab_readSms">내 문자 메시지 읽기(SMS 또는 MMS)</string>
+  <string name="permlab_accessFineLocation">정확한 위치(GPS 및 네트워크 기반)에 액세스</string>
+  <string name="permlab_callPhone">전화번호 자동 연결</string>
+  <string name="permlab_changeWifiState">Wi-Fi 연결 및 연결 해제</string>
+  <string name="permlab_bluetoothAdmin">블루투스 설정에 접근</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">የኤስኤምኤስ መልዕክቶችን ይላኩና ይመልከቱ</string>
+  <string name="permgroupdesc_phone">የስልክ ጥሪዎች ያድርጉ እና ያስተዳድሩ</string>
+  <string name="permlab_sendSms">የኤስኤምኤስ መልዕክቶችን ይላኩና ይመልከቱ</string>
+  <string name="permlab_readSms">የጽሑፍ መልዕክቶችዎን ያንብቡ (ኤስ.ኤም.ኤስ. ወይም ኤም.ኤም.ኤስ.)</string>
+  <string name="permlab_accessFineLocation">ትክክለኛውን አካባቢ መድረስ (በጂፒኤስ እና አውታረ መረብ ላይ የተመሠረተ)</string>
+  <string name="permlab_callPhone">በቀጥታ ስልክ ቁጥሮች ደውል</string>
+  <string name="permlab_changeWifiState">ከWi-Fi ጋር ተገናኝና ተላቀቅ</string>
+  <string name="permlab_bluetoothAdmin">የብሉቱዝ ቅንብሮችን ድረስባቸው</string>
+</resources>

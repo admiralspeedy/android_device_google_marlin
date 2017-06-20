@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">ส่งและดูข้อความ SMS</string>
+  <string name="permgroupdesc_phone">โทรและจัดการการโทร</string>
+  <string name="permlab_sendSms">ส่งและดูข้อความ SMS</string>
+  <string name="permlab_readSms">อ่านข้อความของคุณ (SMS หรือ MMS)</string>
+  <string name="permlab_accessFineLocation">เข้าถึงตำแหน่งที่แม่นยำ (อิงจาก GPS และเครือข่าย)</string>
+  <string name="permlab_callPhone">โทรติดต่อหมายเลขโทรศัพท์โดยตรง</string>
+  <string name="permlab_changeWifiState">เชื่อมต่อและหยุดเชื่อมต่อ WiFi</string>
+  <string name="permlab_bluetoothAdmin">เข้าถึงการตั้งค่าบลูทูธ</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS സന്ദേശങ്ങൾ അയയ്‌ക്കുകയും കാണുകയും ചെയ്യുക</string>
+  <string name="permgroupdesc_phone">ഫോൺ വിളിക്കുകയും നിയന്ത്രിക്കുകയും ചെയ്യുക</string>
+  <string name="permlab_sendSms">SMS സന്ദേശങ്ങൾ അയയ്‌ക്കുകയും കാണുകയും ചെയ്യുക</string>
+  <string name="permlab_readSms">നിങ്ങളുടെ വാചക സന്ദേശങ്ങൾ വായിക്കുക (SMS അല്ലെങ്കിൽ MMS)</string>
+  <string name="permlab_accessFineLocation">കൃത്യമായ ലൊക്കേഷൻ (GPS - നെറ്റ്‌വർക്ക് അധിഷ്ഠിതം) ആക്സസ് ചെയ്യുക</string>
+  <string name="permlab_callPhone">ഫോൺ നമ്പറുകളിലേക്ക് നേരിട്ട് വിളിക്കുക</string>
+  <string name="permlab_changeWifiState">വൈഫൈ കണക്റ്റുചെയ്യുക, അതിൽ നിന്നും വിച്ഛേദിക്കുക</string>
+  <string name="permlab_bluetoothAdmin">ബ്ലൂടൂത്ത് ക്രമീകരണങ്ങൾ ആക്സസ്സുചെയ്യുക</string>
+</resources>
