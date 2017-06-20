@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS xabarlarni yuborish va ko‘rish</string>
+  <string name="permgroupdesc_phone">telefon qo‘ng‘iroqlarini amalga oshirish va boshqarish</string>
+  <string name="permlab_sendSms">SMS xabarlarni yuborish va ko‘rish</string>
+  <string name="permlab_readSms">matn xabarlaringizni o‘qish (SMS yoki MMS)</string>
+  <string name="permlab_accessFineLocation">aniq joylashuv ma’lumotiga kirish (GPS va tarmoq asosida)</string>
+  <string name="permlab_callPhone">telefon raqamlariga tog‘ridan to‘g‘ri qo‘ng‘iroq qilish</string>
+  <string name="permlab_changeWifiState">Wi-Fi tarmog‘iga ulanish va uzish</string>
+  <string name="permlab_bluetoothAdmin">Bluetooth sozlamalariga kirish</string>
+</resources>

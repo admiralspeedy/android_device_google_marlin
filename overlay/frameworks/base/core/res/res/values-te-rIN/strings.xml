@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS సందేశాలను పంపడానికి మరియు వీక్షించడానికి</string>
+  <string name="permgroupdesc_phone">ఫోన్ కాల్‌లను చేయడానికి మరియు నిర్వహించడానికి</string>
+  <string name="permlab_sendSms">SMS సందేశాలను పంపడానికి మరియు వీక్షించడానికి</string>
+  <string name="permlab_readSms">మీ వచన సందేశాలు (SMS లేదా MMS) చదవడం</string>
+  <string name="permlab_accessFineLocation">ఖచ్చితమైన స్థానాన్ని (GPS మరియు నెట్‌వర్క్-ఆధారితం) ప్రాప్యత చేయడం</string>
+  <string name="permlab_callPhone">ఫోన్ నంబర్‌లకు నేరుగా కాల్ చేయడం</string>
+  <string name="permlab_changeWifiState">Wi-Fiకి కనెక్ట్ చేయడం మరియు దాని నుండి డిస్‌కనెక్ట్ చేయడం</string>
+  <string name="permlab_bluetoothAdmin">బ్లూటూత్ సెట్టింగ్‌లను ప్రాప్యత చేయడం</string>
+</resources>

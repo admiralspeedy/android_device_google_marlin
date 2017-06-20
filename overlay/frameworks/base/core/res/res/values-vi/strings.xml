@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">gửi và xem tin nhắn SMS</string>
+  <string name="permgroupdesc_phone">thực hiện và quản lý cuộc gọi điện thoại</string>
+  <string name="permlab_sendSms">gửi và xem tin nhắn SMS</string>
+  <string name="permlab_readSms">đọc tin nhắn văn bản của bạn (SMS hoặc MMS)</string>
+  <string name="permlab_accessFineLocation">truy cập vị trí chính xác (dựa vào mạng và GPS)</string>
+  <string name="permlab_callPhone">gọi trực tiếp số điện thoại</string>
+  <string name="permlab_changeWifiState">kết nối và ngắt kết nối Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">truy cập cài đặt Bluetooth</string>
+</resources>

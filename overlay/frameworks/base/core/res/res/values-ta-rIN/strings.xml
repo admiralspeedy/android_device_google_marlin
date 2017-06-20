@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS அனுப்பலாம், வந்த SMSகளைப் பார்க்கலாம்</string>
+  <string name="permgroupdesc_phone">யாரையும் தொலைபேசியில் அழைக்கலாம்</string>
+  <string name="permlab_sendSms">SMS செய்திகளை அனுப்புதல் மற்றும் பார்த்தல்</string>
+  <string name="permlab_readSms">உங்கள் உரைச் செய்திகளை (SMS அல்லது MMS) படித்தல்</string>
+  <string name="permlab_accessFineLocation">துல்லியமான இருப்பிடத்தை அணுகுதல் (GPS மற்றும் நெட்வொர்க் அடிப்படையில்)</string>
+  <string name="permlab_callPhone">தொலைபேசி எண்களை நேரடியாக அழைத்தல்</string>
+  <string name="permlab_changeWifiState">வைஃபை உடன் இணைக்கவும் மற்றும் அதனுடனான தொடர்பைத் துண்டித்தல்</string>
+  <string name="permlab_bluetoothAdmin">புளூடூத் அமைப்புகளை அணுகுதல்</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">ផ្ញើ និងមើលសារ SMS</string>
+  <string name="permgroupdesc_phone">ហៅទូរស័ព្ទ និងគ្រប់គ្រងការហៅទូរស័ព្ទ</string>
+  <string name="permlab_sendSms">ផ្ញើ និងមើលសារ SMS</string>
+  <string name="permlab_readSms">អាន​សារ​អត្ថបទ​របស់​អ្នក (SMS ឬ MMS​)</string>
+  <string name="permlab_accessFineLocation">ចូលដំណើរការទីតាំងច្បាស់លាស់ (ផ្អែកលើបណ្តាញ និង GPS)</string>
+  <string name="permlab_callPhone">ហៅ​លេខ​ទូរស័ព្ទ​ដោយ​ផ្ទាល់</string>
+  <string name="permlab_changeWifiState">ភ្ជាប់ និង​ផ្ដាច់​ពី​វ៉ាយហ្វាយ</string>
+  <string name="permlab_bluetoothAdmin">ចូល​ដំណើរការ​​ការ​កំណត់​ប៊្លូធូស</string>
+</resources>

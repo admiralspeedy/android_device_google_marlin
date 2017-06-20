@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">trimită și să vadă mesajele SMS</string>
+  <string name="permgroupdesc_phone">inițieze și să gestioneze apeluri telefonice</string>
+  <string name="permlab_sendSms">trimită și să vadă mesajele SMS</string>
+  <string name="permlab_readSms">citește mesajele text (SMS sau MMS)</string>
+  <string name="permlab_accessFineLocation">să acceseze locația exactă (bazată pe GPS și pe rețea)</string>
+  <string name="permlab_callPhone">apelare directă numere de telefon</string>
+  <string name="permlab_changeWifiState">se conectează și se deconectează de la Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">accesează setările Bluetooth</string>
+</resources>

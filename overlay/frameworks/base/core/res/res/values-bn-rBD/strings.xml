@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">এসএমএসগুলি পাঠাতে এবং দেখতে</string>
+  <string name="permgroupdesc_phone">ফোন কলগুলি এবং পরিচালনা</string>
+  <string name="permlab_sendSms">SMS পাঠানো ও দেখা,আপনি কি পরিচিতি কে এগুলি করার অনুমতি দেবেন?</string>
+  <string name="permlab_readSms">আপনার পাঠ্য বার্তা পড়ুন (SMS বা MMS)</string>
+  <string name="permlab_accessFineLocation">সুনির্দিষ্ট অবস্থান (GPS এবং নেটওয়ার্ক-ভিত্তিক) অ্যাক্সেস করুন</string>
+  <string name="permlab_callPhone">সরাসরি ফোন নম্বরগুলিতে কল করে</string>
+  <string name="permlab_changeWifiState">ওয়াই-ফাই এর সাথে সংযুক্ত হন বা সংযোগ বিচ্ছিন্ন করুন</string>
+  <string name="permlab_bluetoothAdmin">ব্লুটুথ এর সেটিংস অ্যাক্সেস করুন</string>
+</resources>

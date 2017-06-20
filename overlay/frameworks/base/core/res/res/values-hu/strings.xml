@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS-ek küldése és megtekintése</string>
+  <string name="permgroupdesc_phone">telefonhívások kezdeményezése és kezelése</string>
+  <string name="permlab_sendSms">SMS-ek küldése és megtekintése</string>
+  <string name="permlab_readSms">szöveges üzenetek (SMS vagy MMS) olvasása</string>
+  <string name="permlab_accessFineLocation">hozzáférés a pontos (GPS- és hálózatalapú) helyadatokhoz</string>
+  <string name="permlab_callPhone">telefonszámok közvetlen hívása</string>
+  <string name="permlab_changeWifiState">kapcsolódás Wi-Fi-hez és a kapcsolat bontása</string>
+  <string name="permlab_bluetoothAdmin">Bluetooth-beállítások elérése</string>
+</resources>

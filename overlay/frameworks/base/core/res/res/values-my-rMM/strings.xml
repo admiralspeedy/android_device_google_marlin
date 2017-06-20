@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS စာများကို ပို့ကာ ကြည့်မည်</string>
+  <string name="permgroupdesc_phone">ဖုန်းခေါ်ဆိုမှုများ ပြုလုပ်ရန်နှင့် စီမံရန်</string>
+  <string name="permlab_sendSms">SMS စာများကို ပို့ကာ ကြည့်မည်</string>
+  <string name="permlab_readSms">သင့်ရဲ့ စာပေးပို့ခြင်းများ ဖတ်ခြင်း (စာတို နှင့် ရုပ်သံစာ)</string>
+  <string name="permlab_accessFineLocation">တိကျတဲ့ တည်နေရာ (GPS နှင့် ကွန်ရက် အခြေခံ)ကို ရယူသုံးရန်</string>
+  <string name="permlab_callPhone">ဖုန်းနံပါတ်များကိုတိုက်ရိုက်ခေါ်ဆိုခြင်း</string>
+  <string name="permlab_changeWifiState">ဝိုင်ဖိုင်အား ချိတ်ဆက်ရန် နှင့် ဆက်သွယ်မှု ဖြတ်တောက်ရန်</string>
+  <string name="permlab_bluetoothAdmin">ဘလူးတုသ် ဆက်တင်များအား သုံးခွင့်ပေးရန်</string>
+</resources>

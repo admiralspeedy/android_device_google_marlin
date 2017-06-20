@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">‏إرسال رسائل قصيرة SMS وعرضها</string>
+  <string name="permgroupdesc_phone">إجراء مكالمات هاتفية وإدارتها</string>
+  <string name="permlab_sendSms">‏إرسال رسائل قصيرة SMS وعرضها</string>
+  <string name="permlab_readSms">‏قراءة الرسائل النصية (الرسائل القصيرة SMS أو رسائل الوسائط المتعددة)</string>
+  <string name="permlab_accessFineLocation">‏الوصول إلى الموقع الدقيق (استنادًا إلى نظام تحديد المواقع العالمي \"GPS\" والشبكة)</string>
+  <string name="permlab_callPhone">اتصال مباشر بأرقام الهواتف</string>
+  <string name="permlab_changeWifiState">‏التوصيل والفصل من Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">الدخول إلى إعدادات بلوتوث</string>
+</resources>

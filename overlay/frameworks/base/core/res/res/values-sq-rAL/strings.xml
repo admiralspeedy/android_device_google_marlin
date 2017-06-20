@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">dërgo dhe shiko mesazhet SMS</string>
+  <string name="permgroupdesc_phone">kryej dhe menaxho telefonata</string>
+  <string name="permlab_sendSms">dërgo dhe shiko mesazhet SMS</string>
+  <string name="permlab_readSms">lexo mesazhet e tua në tekst (SMS ose MMS)</string>
+  <string name="permlab_accessFineLocation">qasu te vendndodhja e përpiktë (në bazë të GPS-së dhe rrjetit)</string>
+  <string name="permlab_callPhone">telefono drejtpërdrejt numrat e telefonit</string>
+  <string name="permlab_changeWifiState">lidhu ose shkëputu nga Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">qasu në cilësimet e \"bluetooth-it\"</string>
+</resources>

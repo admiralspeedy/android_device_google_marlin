@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">itume na iangalie SMS</string>
+  <string name="permgroupdesc_phone">piga na udhibiti simu</string>
+  <string name="permlab_sendSms">itume na iangalie SMS</string>
+  <string name="permlab_readSms">soma SMS au MMS zako</string>
+  <string name="permlab_accessFineLocation">fikia mahali halisi (inategemea mtandao na GPS)</string>
+  <string name="permlab_callPhone">piga simu moja kwa moja kwa nambari za simu</string>
+  <string name="permlab_changeWifiState">unganisha na utenganishe kutoka kwa Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">fikia mipangilio ya Bluetooth</string>
+</resources>

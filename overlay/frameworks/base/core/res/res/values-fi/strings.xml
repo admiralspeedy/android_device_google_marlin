@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">lähettää ja tarkastella tekstiviestejä</string>
+  <string name="permgroupdesc_phone">soittaa ja hallinnoida puheluita</string>
+  <string name="permlab_sendSms">lähettää ja tarkastella tekstiviestejä</string>
+  <string name="permlab_readSms">lue tekstiviestejä (teksti tai multimedia)</string>
+  <string name="permlab_accessFineLocation">käyttää tarkkaa sijaintia (GPS- ja verkkopohjainen)</string>
+  <string name="permlab_callPhone">soittaa puhelinnumeroihin suoraan</string>
+  <string name="permlab_changeWifiState">muodosta ja katkaise Wi-Fi-yhteys</string>
+  <string name="permlab_bluetoothAdmin">käytä Bluetooth-asetuksia</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS შეტყობინებების გაგზავნა და ნახვა</string>
+  <string name="permgroupdesc_phone">სატელეფონო ზარების განხორციელება და მართვა</string>
+  <string name="permlab_sendSms">SMS-ის შეტყობინებების გაგზავნა და ნახვა</string>
+  <string name="permlab_readSms">თქვენი ტექსტური შეტყობინებების (SMS ან MMS) წაკითხვა</string>
+  <string name="permlab_accessFineLocation">ზუსტ მდებარეობაზე წვდომა (GPS-ისა და ქსელის მეშვეობით)</string>
+  <string name="permlab_callPhone">პირდაპირი დარეკვა ტელეფონის ნომრებზე</string>
+  <string name="permlab_changeWifiState">Wi-Fi-ისთან დაკავშირება ან კავშირის შეწყვეტა</string>
+  <string name="permlab_bluetoothAdmin">Bluetooth-ის პარამეტრებზე წვდომა</string>
+</resources>

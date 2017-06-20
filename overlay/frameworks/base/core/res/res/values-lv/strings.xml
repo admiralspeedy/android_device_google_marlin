@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">sūtīt un skatīt īsziņas</string>
+  <string name="permgroupdesc_phone">veikt un pārvaldīt tālruņa zvanus</string>
+  <string name="permlab_sendSms">sūtīt un skatīt īsziņas</string>
+  <string name="permlab_readSms">lasīt ziņojumus (SMS vai MMS)</string>
+  <string name="permlab_accessFineLocation">Piekļūt precīzai atrašanās vietai (izmantojot GPS un tīklu)</string>
+  <string name="permlab_callPhone">tieši zvanīt uz tālruņa numuriem</string>
+  <string name="permlab_changeWifiState">izveidot un pārtraukt Wi-Fi savienojumu</string>
+  <string name="permlab_bluetoothAdmin">piekļūt Bluetooth iestatījumiem</string>
+</resources>

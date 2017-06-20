@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">‏שליחה והצגה של הודעות SMS</string>
+  <string name="permgroupdesc_phone">התקשרות וניהול של שיחות טלפון</string>
+  <string name="permlab_sendSms">‏שליחה והצגה של הודעות SMS</string>
+  <string name="permlab_readSms">‏קריאת הודעות הטקסט שלך (SMS או MMS)</string>
+  <string name="permlab_accessFineLocation">‏גישה אל מיקום מדויק (מבוסס GPS ורשת)</string>
+  <string name="permlab_callPhone">התקשר ישירות למספרי טלפון</string>
+  <string name="permlab_changeWifiState">‏התחברות והתנתקות מ-Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">‏גישה להגדרות Bluetooth</string>
+</resources>

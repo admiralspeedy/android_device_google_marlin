@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">siųsti ir peržiūrėti SMS pranešimus</string>
+  <string name="permgroupdesc_phone">skambinti ir tvarkyti telefonų skambučius</string>
+  <string name="permlab_sendSms">siųsti ir peržiūrėti SMS pranešimus</string>
+  <string name="permlab_readSms">skaityti teksto pranešimus (SMS arba MMS)</string>
+  <string name="permlab_accessFineLocation">pasiekti tikslią vietą (nustatytą atsižvelgiant į GPS ir tinklą)</string>
+  <string name="permlab_callPhone">skambinti tiesiogiai telefono numeriais</string>
+  <string name="permlab_changeWifiState">prijungti prie „Wi-Fi“ ir atjungti nuo jo</string>
+  <string name="permlab_bluetoothAdmin">pasiekti „Bluetooth“ nustatymus</string>
+</resources>

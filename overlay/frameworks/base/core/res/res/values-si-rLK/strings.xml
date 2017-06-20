@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">SMS පණිවිඩ යැවීම සහ බැලීම</string>
+  <string name="permgroupdesc_phone">දුරකථන ඇමතුම් සිදු කිරීම සහ කළමනාකරණය කිරීම</string>
+  <string name="permlab_sendSms">SMS පණිවිඩ යැවීම සහ බැලීම</string>
+  <string name="permlab_readSms">ඔබගේ පෙළ පණිවුඩ කියවන්න (SMS හෝ MMS)</string>
+  <string name="permlab_accessFineLocation">නිවැරදි ස්ථානයට (GPS සහ ජාලය පදනම් කරගත්) පිවිසීම</string>
+  <string name="permlab_callPhone">දුරකථන අංක වෙත ඍජුවම අමතන්න</string>
+  <string name="permlab_changeWifiState">Wi-Fi වලට සම්බන්ධ විම සහ විසන්ධි කිරීම</string>
+  <string name="permlab_bluetoothAdmin">බ්ලූටූත් සැකසීම් ප්‍රවේශය</string>
+</resources>

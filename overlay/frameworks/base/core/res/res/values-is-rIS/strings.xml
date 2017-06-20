@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">senda og skoða SMS-skilaboð</string>
+  <string name="permgroupdesc_phone">hringja og stjórna símtölum</string>
+  <string name="permlab_sendSms">senda og skoða SMS-skilaboð</string>
+  <string name="permlab_readSms">lesa textaskilaboð (SMS eða MMS)</string>
+  <string name="permlab_accessFineLocation">fá aðgang að nákvæmri staðsetningu (frá GPS og símkerfi)</string>
+  <string name="permlab_callPhone">hringja beint í símanúmer</string>
+  <string name="permlab_changeWifiState">tengjast og aftengja frá Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">aðgangur að Bluetooth-stillingum</string>
+</resources>

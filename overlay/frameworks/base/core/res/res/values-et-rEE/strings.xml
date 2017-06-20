@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">saata ja vaadata SMS-sõnumeid</string>
+  <string name="permgroupdesc_phone">helistamine ja telefonikõnede haldamine</string>
+  <string name="permlab_sendSms">saata ja vaadata SMS-sõnumeid</string>
+  <string name="permlab_readSms">lugege oma tekstisõnumeid (SMS või MMS)</string>
+  <string name="permlab_accessFineLocation">juurdepääs täpsele asukohale (GPS-i ja võrgupõhine)</string>
+  <string name="permlab_callPhone">helista otse telefoninumbritele</string>
+  <string name="permlab_changeWifiState">ühendage ja katkestage ühendus WiFi-ga</string>
+  <string name="permlab_bluetoothAdmin">juurdepääs Bluetoothi ​​seadetele</string>
+</resources>

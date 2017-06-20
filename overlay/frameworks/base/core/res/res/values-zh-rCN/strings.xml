@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">发送和查看短信</string>
+  <string name="permgroupdesc_phone">拨打电话和管理通话</string>
+  <string name="permlab_sendSms">发送短信</string>
+  <string name="permlab_readSms">读取短信</string>
+  <string name="permlab_accessFineLocation">访问确切位置信息（以 GPS 和网络为依据）</string>
+  <string name="permlab_callPhone">拨打电话</string>
+  <string name="permlab_changeWifiState">连接WLAN网络和断开连接</string>
+  <string name="permlab_bluetoothAdmin">访问蓝牙设置</string>
+</resources>

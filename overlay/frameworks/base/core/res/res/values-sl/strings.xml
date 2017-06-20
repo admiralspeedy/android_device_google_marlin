@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">pošiljanje in ogled sporočil SMS</string>
+  <string name="permgroupdesc_phone">opravljanje in upravljanje telefonskih klicev</string>
+  <string name="permlab_sendSms">pošiljanje in ogled sporočil SMS</string>
+  <string name="permlab_readSms">branje sporočil (SMS ali MMS)</string>
+  <string name="permlab_accessFineLocation">dostop do natančne lokacije (na podlagi podatkov GPS in omrežja)</string>
+  <string name="permlab_callPhone">neposredno klicanje telefonskih številk</string>
+  <string name="permlab_changeWifiState">vzpostavitev povezave z omrežjem Wi-Fi in prekinitev povezave z njim</string>
+  <string name="permlab_bluetoothAdmin">dostop do nastavitev Bluetooth</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permgroupdesc_sms">испраќа и прикажува SMS-пораки</string>
+  <string name="permgroupdesc_phone">упатува и управува со телефонски повици</string>
+  <string name="permlab_sendSms">испрати и прикажи SMS-пораки</string>
+  <string name="permlab_readSms">прочитај ги своите текстуални пораки (SMS или MMS)</string>
+  <string name="permlab_accessFineLocation">пристап до прецизната локација (GPS и врз база на мрежа)</string>
+  <string name="permlab_callPhone">директно избирај телефонски броеви</string>
+  <string name="permlab_changeWifiState">поврзи се и исклучи се од Wi-Fi</string>
+  <string name="permlab_bluetoothAdmin">пристапува кон поставки на Bluetooth</string>
+</resources>
