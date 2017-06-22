@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Atingeți pentru a configura amprenta</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint vă folosește amprenta pentru activarea și deblocarea telefonului, autorizarea achizițiilor sau conectarea la aplicații.
+
+Aveți grijă ce amprente adăugați. Aceste acțiuni sunt posibile folosind orice amprentă adăugată.
+
+Notă: este posibil ca amprenta să fie mai puțin sigură decât un model sau un cod PIN puternic. "<annotation link="url">Aflați mai multe</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Cu Pixel Imprint, vă puteți folosi amprenta ca să autorizați achiziții sau să vă conectați la aplicații.
+
+Aveți grijă ce amprente adăugați. Aceste acțiuni sunt posibile folosind orice amprentă adăugată.
+
+Notă: nu vă puteți folosi amprenta ca să deblocați acest dispozitiv. Pentru informații suplimentare, contactați administratorul organizației."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint vă folosește amprenta pentru activarea și deblocarea telefonului, autorizarea achizițiilor sau conectarea la aplicații.
+
+Aveți grijă ce amprente adăugați. Aceste acțiuni sunt posibile folosind orice amprentă adăugată.
+
+Notă: este posibil ca amprenta să fie mai puțin sigură decât un model sau un cod PIN puternic."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Sfat: se află pe partea din spate a telefonului.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Atingeți senzorul Pixel Imprint ca să activați și să deblocați telefonul.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Pe lângă deblocarea telefonului, puteți folosi Pixel Imprint pentru a autoriza achizițiile și accesul aplicațiilor.<annotation id="url">Aflați mai multe</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Folosiți Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Alegeți o blocare de rezervă a ecranului pentru a o folosi cu Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + model</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + parolă</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Continuați fără Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Cu Pixel Imprint, puteți debloca telefonul folosind amprenta. Din motive de securitate, această opțiune necesită o blocare a ecranului de rezervă.</string>
+  <string name="automatic_storage_manager_text">Când spațiul de stocare este aproape plin, eliminați fotografiile și videoclipurile cărora le-ați făcut backup. Le puteți găsi în continuare pe Google Foto.</string>
+  <string name="automatic_storage_manager_days_title">Eliminați fotografiile și videoclipurile cărora li s-a făcut backup</string>
+  <string name="automatic_storage_manager_preference_title">Stocare inteligentă</string>
+  <string name="gesture_preference_title">Mișcări</string>
+  <string name="double_twist_for_camera_mode_summary">Pentru a activa/dezactiva modul Autoportret în Camera foto Google, răsuciți de două ori când sunteți în aplicație</string>
+  <string name="automatic_storage_manager_activation_warning">După ce vă conectați, puteți accesa în continuare fotografiile și videoclipurile la calitatea pe care ați selectat-o pentru backup</string>
+</resources>

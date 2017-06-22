@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Докоснете, за да настроите отпечатък</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint използва отпечатъка ви за активиране и отключване на телефона ви, за оторизиране на покупки или за влизане в приложения.
+
+Внимавайте чии отпечатъци добавяте – с всеки един от тях ще могат да се извършват изброените действия.
+
+Забележка: Отпечатъкът ви може да е по-малко сигурен в сравнение с надеждна фигура или ПИН код. "<annotation link="url">Научете повече</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"С Pixel Imprint можете да използвате отпечатъка си, за да оторизирате покупки или да влизате в приложения.
+
+Внимавайте чии отпечатъци добавяте, тъй като с тях ще могат да се извършват изброените неща.
+
+Забележка: Не можете да отключвате това устройство с отпечатъка си. За повече информация се свържете с администратора на организацията си."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint използва отпечатъка ви за активиране и отключване на телефона ви, за оторизиране на покупки или за влизане в приложения.
+
+Внимавайте чии отпечатъци добавяте – с всеки един от тях ще могат да се извършват изброените действия.
+
+Забележка: Отпечатъкът ви може да е по-малко сигурен в сравнение с надеждна фигура или ПИН код."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Съвет: Намира се на гърба на телефона ви.</string>
+  <string name="setup_fingerprint_enroll_finish_message">За да активирате и отключите телефона си, трябва само да докоснете сензора на Pixel Imprint.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Освен за отключване на телефона си можете да използвате Pixel Imprint и за оторизиране на покупки и за достъп до приложения. <annotation id="url">Научете повече</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Използване на Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Избиране на резервно заключване на екрана, което да се използва с Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + фигура</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + ПИН код</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + парола</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Продължаване без Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">С Pixel Imprint можете да отключвате телефона си посредством отпечатъка си. От съображения за сигурност трябва да зададете резервна опция за заключване на екрана.</string>
+  <string name="automatic_storage_manager_text">Когато хранилището е почти пълно, се премахват снимките и видеоклиповете, за които е създадено резервно копие. Пак можете да ги намерите в Google Фото.</string>
+  <string name="automatic_storage_manager_days_title">Премахване на снимките и видеоклиповете, за които е създадено резервно копие</string>
+  <string name="automatic_storage_manager_preference_title">Интелигентно хранилище</string>
+  <string name="gesture_preference_title">Движения</string>
+  <string name="double_twist_for_camera_mode_summary">За да включите или изключите режима за самоснимка в Google Камера, завъртете устройството два пъти, когато сте в приложението</string>
+  <string name="automatic_storage_manager_activation_warning">Когато сте свързани, пак ще имате достъп до снимките и видеоклиповете с качеството, което сте избрали за резервното копие</string>
+</resources>

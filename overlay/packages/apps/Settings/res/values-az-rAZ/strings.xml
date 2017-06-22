@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Piksel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Barmaq izini quraşdırmaq üçün tıklayın</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Piksel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint telefonunuzu oyatmaq və kiliddən çıxarmaq, alışları təsdiqləmək və ya tətbiqlərə daxil olmaq üçün barmaq izinizi istifadə edir.
+
+Kimi əlavə etdiyinizə diqqət edin. Əlavə edilmiş hər hansı barmaq izi ilə bunları etmək mümkün olacaq.
+
+Qeyd: Barmaq iziniz güclü model və ya PİN koddan daha az təhlükəsizdir. "<annotation link="url">Ətraflı məlumat</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint ilə, alışları təsdiqləmək və ya tətbiqlərə daxil olmaq üçün barmaq izinizi istifadə edə bilərsiniz.
+
+Kimi əlavə etdiyinizə diqqət edin. Əlavə edilmiş hər hansı barmaq izi ilə bunları etmək mümkün olacaq.
+
+Qeyd: barmaq izinizi bu cihazın kildiini açmaq üçün istifadə edə bilməzsiniz. Ətraflı məlumat üçün, təşkilatın admini ilə əlaqə saxlayın."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Piksel Imprint telefonunuzu oyatmaq və kiliddən çıxarmaq, alışları təsdiqləmək və ya tətbiqlərə daxil olmaq üçün barmaq izinizi istifadə edir.
+
+Kimi əlavə etdiyinizə diqqət edin. Əlavə edilmiş hər hansı barmaq izi ilə bunları etmək mümkün olacaq.
+
+Qeyd: Barmaq iziniz güclü model və ya PİN koddan daha az təhlükəsizdir."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">İpucu: Bu, telefonunuzun arxa hissəsindədir.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Telefonunuzu oyatmaq və kilidini açmaq üçün sadəcə Piksel Imprint sensoruna toxunun.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">"Telefonun kilidini açmaqdan əlavə, alışları doğrulamaq və tətbiqlərə giriş üçün Piksel İmprint'i də istifadə edə bilərsiniz. "<annotation id="url">Ətraflı məlumat</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Piksel Imprint istifadə edin</string>
+  <string name="lock_settings_picker_fingerprint_message">Piksel Imprint ilə istifadə etmək üçün arxa fon ekran kilidini seçin</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Piksel Imprint + Model</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Piksel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Piksel Imprint + Parol</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint olmadan davam edin</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint ilə, barmaq izinizi istifadə edərək telefonun kilidini aça bilərsiniz. Təhlükəsizlik üçün, bu seçim yedək ekran kilidi tələb edir.</string>
+  <string name="automatic_storage_manager_text">Yaddaş demək olar ki doludur, yedəklənmiş foto və videoları silin. Onları hələ də Google Fotodan tapa bilərsiniz.</string>
+  <string name="automatic_storage_manager_days_title">Yedəklənmiş foto və videoları silin</string>
+  <string name="automatic_storage_manager_preference_title">Ağıllı Yaddaş</string>
+  <string name="gesture_preference_title">Hərəkətlər</string>
+  <string name="double_twist_for_camera_mode_summary">Google Kamerada Selfi rejiminə daxil olmaq və çıxmaq üçün tətbiqdə olduğunuz zaman iki dəfə fırladın</string>
+  <string name="automatic_storage_manager_activation_warning">Qoşulduğunuz zaman, yedəkləmə üçün seçdiyiniz keyfiyyətdəki foto və videolara hələ də daxil ola bilərsiniz</string>
+</resources>

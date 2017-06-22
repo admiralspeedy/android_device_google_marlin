@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Tik om vingerafdruk op te stel</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint gebruik jou vingerafdruk om jou foon wakker te maak en te ontsluit, aankope te magtig, of by programme aan te meld.
+
+Wees versigtig wie se vingerafdrukke jy byvoeg. Enige vingerafdruk wat bygevoeg is, sal hierdie dinge kan doen.
+
+Let wel: Jou vingerafdruk sal dalk minder veilig as 'n sterk patroon of PIN wees. "<annotation link="url">Kom meer te wete</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Met Pixel Imprint kan jy jou vingerafdruk gebruik om aankope te magtig of by programme aan te meld.
+
+Wees versigtig wie se vingerafdrukke jy byvoeg. Enige vingerafdrukke wat bygevoeg word, sal hierdie goed kan doen.
+
+Let wel: Jy kan nie jou vingerafdruk gebruik om hierdie toestel te ontsluit nie. Kontak jou organisasie se administateur vir meer inligting."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint gebruik jou vingerafdruk om jou foon wakker te maak en te ontsluit, aankope te magtig, of by programme aan te meld.
+
+Wees versigtig wie se vingerafdrukke jy byvoeg. Enige vingerafdruk wat bygevoeg is, sal hierdie dinge kan doen.
+
+Let wel: Jou vingerafdruk sal dalk minder veilig as 'n sterk patroon of PIN wees."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Wenk: Dit is op die agterkant van jou foon.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Raak eenvoudig die Pixel Imprint-sensor om jou foon wakker te maak en te ontsluit.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Jy kan Pixel Imprint naas vir die ontsluiting van jou foon ook gebruik om aankope en programtoegang te magtig. <annotation id="url">Kom meer te wete</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Gebruik Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">"Kies 'n rugsteunskermslot om saam met Pixel Imprint te gebruik"</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint en patroon</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint en PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint en wagwoord</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Gaan voort sonder Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">"Met Pixel Imprint kan jy jou foon met jou vingerafdruk ontsluit. Om veiligheidsredes vereis hierdie opsie 'n rugsteunskermslot."</string>
+  <string name="automatic_storage_manager_text">"Verwyder gerugsteunde foto's en video's wanneer die berging byna vol is. Jy kan hulle steeds in Google Foto's vind."</string>
+  <string name="automatic_storage_manager_days_title">"Verwyder gerugsteunde foto's en video's"</string>
+  <string name="automatic_storage_manager_preference_title">Slim berging</string>
+  <string name="gesture_preference_title">Bewegings</string>
+  <string name="double_twist_for_camera_mode_summary">Draai jou pols twee keer wanneer jy in die program is om tussen in en uit selfiemodus in Google Kamera te wissel</string>
+  <string name="automatic_storage_manager_activation_warning">"Wanneer jy gekoppel is, kan jy steeds toegang kry tot foto's en video's teen die gehalte wat jy vir rugsteun gekies het"</string>
+</resources>

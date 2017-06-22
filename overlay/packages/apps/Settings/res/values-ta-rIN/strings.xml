@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">கைரேகையை அமைக்க, தட்டவும்</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"மொபைலை இயக்கித் திறக்க, வாங்குவதை அங்கீகரிக்க அல்லது பயன்பாடுகளில் உள்நுழைய, Pixel Imprint உங்கள் கைரேகையைப் பயன்படுத்தும்.
+
+சேர்க்கப்பட்ட எந்தக் கைரேகைகளைப் பயன்படுத்தியும் மேலே குறிப்பிட்ட செயல்களைச் செய்ய முடியும் என்பதால், யாருடைய கைரேகையைச் சேர்க்கிறீர்கள் என்பதில் கவனமாக இருக்கவும்.
+
+குறிப்பு: உங்கள் கைரேகையானது வலுவான பேட்டர்ன் அல்லது பின்னை விட குறைந்த பாதுகாப்புடையதாக இருக்கக்கூடும். "<annotation link="url">மேலும் அறிக</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprintஐப் பயன்படுத்தி, வாங்குவதை அங்கீகரிக்க அல்லது பயன்பாடுகளில் உள்நுழைய, உங்கள் கைரேகையைப் பயன்படுத்தலாம்.
+
+சேர்க்கப்பட்ட எந்தக் கைரேகைகளைப் பயன்படுத்தியும் மேலே குறிப்பிட்ட செயல்களைச் செய்ய முடியும் என்பதால், யாருடைய கைரேகையைச் சேர்க்கிறீர்கள் என்பதில் கவனமாக இருக்கவும்.
+
+குறிப்பு: இந்தச் சாதனத்தைத் திறக்க, உங்கள் கைரேகையைப் பயன்படுத்த முடியாது. மேலும் தகவலுக்கு, உங்கள் நிறுவனத்தின் நிர்வாகியைத் தொடர்புகொள்ளவும்."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"மொபைலை இயக்கித் திறக்க, வாங்குவதை அங்கீகரிக்க அல்லது பயன்பாடுகளில் உள்நுழைய, Pixel Imprint உங்கள் கைரேகையைப் பயன்படுத்தும்.
+
+சேர்க்கப்பட்ட எந்தக் கைரேகைகளைப் பயன்படுத்தியும் மேலே குறிப்பிட்ட செயல்களைச் செய்ய முடியும் என்பதால், யாருடைய கைரேகையைச் சேர்க்கிறீர்கள் என்பதில் கவனமாக இருக்கவும்.
+
+குறிப்பு: உங்கள் கைரேகையானது வலுவான பேட்டர்ன் அல்லது பின்னை விட குறைந்த பாதுகாப்புடையதாக இருக்கக்கூடும்."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">குறிப்பு: இது உங்கள் மொபைலின் பின்புறம் இருக்கும்.</string>
+  <string name="setup_fingerprint_enroll_finish_message">உங்கள் மொபைலை இயக்கித் திறக்க, Pixel Imprint சென்சாரைத் தொட்டால் போதும்.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Pixel Imprintஐப் பயன்படுத்தி உங்கள் மொபைலைத் திறப்பதுடன், வாங்குதல்கள் மற்றும் பயன்பாட்டிற்கான அணுகலை அங்கீகரிக்கவும் முடியும். <annotation id="url">மேலும் அறிக</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Pixel Imprintஐப் பயன்படுத்தவும்</string>
+  <string name="lock_settings_picker_fingerprint_message">Pixel Imprint உடன் பயன்படுத்த, மாற்றுத் திரைப் பூட்டைத் தேர்வுசெய்யவும்</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + பேட்டர்ன்</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + பின்</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + கடவுச்சொல்</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint இல்லாமல் தொடர்க</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint மூலம், உங்கள் கைரேகையைப் பயன்படுத்தி மொபைலைத் திறக்கலாம். பாதுகாப்பிற்காக, இந்த விருப்பத்திற்கு மாற்றுத் திரைப் பூட்டு அவசியம்.</string>
+  <string name="automatic_storage_manager_text">சேமிப்பகத்தில் குறைந்த இடம் இருக்கும் போது, காப்புப் பிரதி எடுத்த படங்களையும் வீடியோக்களையும் அகற்றவும். நீங்கள் அவற்றைத் தொடர்ந்து Google Photos இல் பார்க்கலாம்.</string>
+  <string name="automatic_storage_manager_days_title">காப்புப் பிரதி எடுத்த படங்கள் &amp; வீடியோக்களை அகற்று</string>
+  <string name="automatic_storage_manager_preference_title">ஸ்மார்ட் சேமிப்பகம்</string>
+  <string name="gesture_preference_title">நகர்வுகள்</string>
+  <string name="double_twist_for_camera_mode_summary">Google கேமராவின் சுயபடப் பயன்முறையை இயக்க மற்றும் முடக்க, பயன்பாட்டில் இருக்கும் போது இருமுறை திருப்பவும்</string>
+  <string name="automatic_storage_manager_activation_warning">இணைய இணைப்பு கிடைத்ததும், காப்புப் பிரதி எடுப்பதற்குத் தேர்ந்தெடுத்த தரத்திலேயே படங்களையும் வீடியோக்களையும் தொடர்ந்து அணுகலாம்</string>
+</resources>

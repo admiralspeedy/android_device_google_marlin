@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">แตะเพื่อตั้งค่าลายนิ้วมือ</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint ใช้ลายนิ้วมือเพื่อปลุกและปลดล็อกโทรศัพท์ ให้สิทธิ์การซื้อ หรือลงชื่อเข้าใช้แอป
+
+โปรดพิจารณาบุคคลที่คุณจะเพิ่มลายนิ้วมืออย่างรอบคอบ ลายนิ้วมือใดก็ตามที่คุณเพิ่มจะสามารถดำเนินการดังกล่าวได้
+
+หมายเหตุ: ลายนิ้วมืออาจมีความปลอดภัยน้อยกว่ารูปแบบหรือ PIN ที่เดายาก "<annotation link="url">เรียนรู้เพิ่มเติม</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint ช่วยให้คุณสามารถใช้ลายนิ้วมือเพื่ออนุมัติการซื้อหรือลงชื่อเข้าใช้แอป
+
+โปรดตรวจสอบลายนิ้วมือที่เพิ่มให้ดี เพราะทุกลายนิ้วมือที่เพิ่มจะสามารถทำสิ่งเหล่านี้ได้
+
+หมายเหตุ: คุณไม่สามารถใช้ลายนิ้วมือเพื่อปลดล็อกอุปกรณ์นี้ โปรดติดต่อผู้ดูแลระบบขององค์กรสำหรับข้อมูลเพิ่มเติม"</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint ใช้ลายนิ้วมือเพื่อปลุกหรือปลดล็อกโทรศัพท์ ให้สิทธิ์การซื้อ หรือลงชื่อเข้าใช้แอป
+
+โปรดพิจารณาบุคคลที่คุณจะเพิ่มลายนิ้วมืออย่างรอบคอบ ลายนิ้วมือใดก็ตามที่คุณเพิ่มจะสามารถดำเนินการดังกล่าวได้
+
+หมายเหตุ: ลายนิ้วมืออาจมีความปลอดภัยน้อยกว่ารูปแบบหรือ PIN ที่เดายาก"</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">คำแนะนำ: เซ็นเซอร์อยู่ที่ด้านหลังโทรศัพท์</string>
+  <string name="setup_fingerprint_enroll_finish_message">เพียงแตะเซ็นเซอร์ Pixel Imprint เพื่อปลุกและปลดล็อกโทรศัพท์</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">นอกเหนือจากการปลดล็อกโทรศัพท์ คุณยังสามารถใช้ Pixel Imprint เพื่อให้สิทธิ์การซื้อและการเข้าถึงแอปได้ <annotation id="url">เรียนรู้เพิ่มเติม</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">ใช้ Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">เลือกล็อกหน้าจอสำรองเพื่อใช้กับ Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + รูปแบบ</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + รหัสผ่าน</string>
+  <string name="fingerprint_unlock_skip_fingerprint">ดำเนินการต่อโดยไม่ใช้ Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">คุณสามารถปลดล็อคโทรศัพท์ได้ด้วยลายนิ้วมือโดยใช้ Pixel Imprint ตัวเลือกนี้ต้องใช้การล็อกหน้าจอสำรอง</string>
+  <string name="automatic_storage_manager_text">เมื่อพื้นที่จัดเก็บข้อมูลใกล้เต็ม ให้นำรูปภาพและวิดีโอที่สำรองข้อมูลไว้ออก คุณยังสามารถดูรูปภาพและวิดีโอดังกล่าวได้ใน Google รูปภาพ</string>
+  <string name="automatic_storage_manager_days_title">นำรูปภาพและวิดีโอที่สำรองไว้ออก</string>
+  <string name="automatic_storage_manager_preference_title">พื้นที่เก็บข้อมูลอัจฉริยะ</string>
+  <string name="gesture_preference_title">การเคลื่อนไหว</string>
+  <string name="double_twist_for_camera_mode_summary">หากต้องการเข้าและออกจากโหมดเซลฟีใน Google กล้องถ่ายรูป โปรดบิด 2 ครั้งเมื่อคุณอยู่ในแอป</string>
+  <string name="automatic_storage_manager_activation_warning">เมื่อคุณเชื่อมต่ออยู่ คุณจะยังคงสามารถเข้าถึงรูปภาพและวิดีโอในคุณภาพที่คุณเลือกไว้สำหรับการสำรอง</string>
+</resources>

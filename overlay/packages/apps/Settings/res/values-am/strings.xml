@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">የጣት አሻራን ለማቀናበር መታ ያድርጉ</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint ስልክዎን ለመቀስቀስ እና ለመክፈት፣ ግዢዎችን ለመፍቀድ ወይም በመለያ ወደ መተግበሪያዎች ለመግባት የጣት አሻራዎን ይጠቀማል።
+
+የማን ጣት አሻራዎችን እንደሚያክሉ ላይ ይጠንቀቁ። ማንኛቸውም የታከሉ ጣት አሻራዎች እነዚህን ነገሮች ማድረግ ይችላሉ።
+
+ማስታወሻ፦ የእርስዎ ጣት አሻራ ከጠንካራ ስርዓተ ጥለት ወይም ፒን ያነሰ ደህንነት ሊኖረው ይችላል። "<annotation link="url">የበለጠ ለመረዳት</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"በPixel Imprint አማካኝነት ግዢዎችን ለማጽደቅ ወይም ወደ መተግበሪያዎች ለመግባት የጣት አሻራዎን መጠቀም ይችላሉ።
+
+የማን ጣት አሻራዎች እንደሚያክሉ ላይ ይጠንቀቁ። ማንኛቸውም የታከሉ ጣት አሻራዎች እነዚህን ማድረግ ይችላሉ።
+
+ማስታወሻ፦ ይህን መሣሪያ ለመክፈት የጣት አሻራዎን መጠቀም አይችሉም። ተጨማሪ መረጃ ለማግኘት የድርጅትዎን አስተዳዳሪ ያነጋግሩ።"</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint ስልክዎን ለመቀስቀስ እና ለመክፈት፣ ግዢዎችን ለመፍቀድ ወይም በመለያ ወደ መተግበሪያዎች ለመግባት የጣት አሻራዎን ይጠቀማል።
+
+የማን ጣት አሻራዎችን እንደሚያክሉ ላይ ይጠንቀቁ። ማንኛቸውም የታከሉ ጣት አሻራዎች እነዚህን ነገሮች ማድረግ ይችላሉ።
+
+ማስታወሻ፦ የእርስዎ ጣት አሻራ ከጠንካራ ስርዓተ ጥለት ወይም ፒን ያነሰ ደህንነት ሊኖረው ይችላል።"</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">ፍንጭ፦ በእርስዎ ስልክ ጀርባ ላይ ነው።</string>
+  <string name="setup_fingerprint_enroll_finish_message">ስልክዎን ለመቀስቀስ እና ለመክፈት በቀላሉ የPixel Imprint መዳሰሻውን መታ ያድርጉ።</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">ስልክዎን ከማስከፈት በተጨማሪ እርስዎ እንዲሁም Pixel Imprintን ተጠቅመው ግዢዎችን እና የመተግበሪያ መዳረሻን መፍቀድ ይችላሉ። <annotation id="url">የበለጠ ለመረዳት</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Pixel Imprintን ይጠቀሙ</string>
+  <string name="lock_settings_picker_fingerprint_message">ከPixel Imprint ጋር የሚጠቀሙበትን ምትኬ የማያ ገጽ መቆለፊያ ይምረጡ</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + ስርዓተ-ጥለት</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + ፒን</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + የይለፍ ቃል</string>
+  <string name="fingerprint_unlock_skip_fingerprint">ያለ Pixel Imprint ቀጥል</string>
+  <string name="fingerprint_unlock_title">ከPixel Imprint ጋር የእርስዎን የጣት አሻራ በመጠቀም የእርስዎን ስልክ መክፈት ይችላሉ። ለደህንነት ሲባል ይህ አማራጭ የምትኬ የማያ ገጽ መቆለፊያ ያስፈልገዋል።</string>
+  <string name="automatic_storage_manager_text">ማከማቻ ሊሞላ ትንሽ ሲቀረው፣ ምትኬ የተቀመጠላቸውን ፎቶዎች እና ቪዲዮዎች ያስወግዱ። አሁንም በGoogle ፎቶዎች ውስጥ ሊያገኟቸው ይችላሉ።</string>
+  <string name="automatic_storage_manager_days_title">ምትኬ የተቀመጠላቸው ፎቶዎችን እና ቪዲዮዎችን አስወግድ</string>
+  <string name="automatic_storage_manager_preference_title">ዘመናዊ ማከማቻ</string>
+  <string name="gesture_preference_title">እንቅስቃሴዎች</string>
+  <string name="double_twist_for_camera_mode_summary">በGoogle ካሜራ ውስጥ ወደ የራስ ፎቶ ሁነታ ለመግባት እና ከእሱ ለመውጣት በመተግበሪያው ውስጥ ሲሆኑ ሁለቴ ጠምዘዝ ያድርጉ</string>
+  <string name="automatic_storage_manager_activation_warning">እርስዎ ሲገናኙ አሁንም ፎቶዎችን እና ቪዲዮዎችን ለምትኬ በመረጡት ጥራት ላይ መድረስ ይችላሉ</string>
+</resources>

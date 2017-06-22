@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Pieskarieties, lai iestatītu pirksta nospiedumu</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint izmanto jūsu pirksta nospiedumu, lai aktivizētu un atbloķētu tālruni, autorizētu pirkumus vai veiktu pierakstīšanos lietotnēs.
+
+Pievienojiet tikai uzticamu personu pirkstu nospiedumus. Šīs darbības varēs veikt, izmantojot visus pievienotos pirkstu nospiedumus.
+
+Piezīme. Pirksta nospiedums var nebūt tik drošs kā sarežģīta kombinācija vai PIN. "<annotation link="url">Uzziniet vairāk</annotation>.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Izmantojot Pixel Imprint, ar pirksta nospiedumu varat autorizēt pirkumus vai pierakstīties lietotnēs.
+
+Rūpīgi apsveriet, kuru personu pirkstu nospiedumus pievienojat. Jebkurš pievienotais pirksta nospiedums ļauj paveikt šīs darbības.
+
+Piezīme. Pirksta nospiedumu nevar izmantot šīs ierīces atbloķēšanai. Lai iegūtu plašāku informāciju, sazinieties ar savas organizācijas administratoru."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint izmanto jūsu pirksta nospiedumu, lai aktivizētu un atbloķētu tālruni, autorizētu pirkumus vai veiktu pierakstīšanos lietotnēs.
+
+Pievienojiet tikai uzticamu personu pirkstu nospiedumus. Šīs darbības varēs veikt, izmantojot visus pievienotos pirkstu nospiedumus.
+
+Piezīme. Pirksta nospiedums var nebūt tik drošs kā sarežģīta kombinācija vai PIN."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Padoms: tas atrodas tālruņa aizmugurē.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Pieskarieties Pixel Imprint sensoram, lai aktivizētu un atbloķētu tālruni.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Varat ne tikai atbloķēt tālruni, bet arī izmantot Pixel Imprint, lai autorizētu pirkumus un lietotņu piekļuvi. <annotation id="url">Uzziniet vairāk</annotation>.</string>
+  <string name="suggested_fingerprint_lock_settings_title">Pixel Imprint izmantošana</string>
+  <string name="lock_settings_picker_fingerprint_message">Izvēlieties rezerves ekrāna bloķēšanas metodi izmantošanai ar Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint un kombinācija</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint un PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint un parole</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Turpināt bez Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Ar Pixel Imprint varat atbloķēt savu tālruni, izmantojot pirksta nospiedumu. Drošības nolūkos šai opcijai nepieciešama rezerves ekrāna bloķēšanas funkcija.</string>
+  <string name="automatic_storage_manager_text">Kad krātuve ir gandrīz pilna, tiek noņemti dublētie fotoattēli un videoklipi. Tos varat atrast Google fotoattēlos.</string>
+  <string name="automatic_storage_manager_days_title">Noņemt dublētos fotoattēlus un videoklipus</string>
+  <string name="automatic_storage_manager_preference_title">Viedā krātuve</string>
+  <string name="gesture_preference_title">Kustības</string>
+  <string name="double_twist_for_camera_mode_summary">Lai ieslēgtu vai izslēgtu pašbilžu režīmu lietotnē Google kamera, divreiz pagrieziet ierīci, kad ir atvērta šī lietotne.</string>
+  <string name="automatic_storage_manager_activation_warning">Kad būsiet izveidojis savienojumu, joprojām varēsiet piekļūt fotoattēliem un videoklipiem tādā kvalitātē, ko atlasījāt dublējumam.</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Määritä sormenjälki koskettamalla.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprintin avulla voit käyttää sormenjälkeäsi puhelimen näytön käynnistämiseen, lukituksen avaamiseen, ostoksien hyväksymiseen ja sovelluksiin kirjautumiseen.
+
+Ole varovainen lisätessäsi sormenjälkiä, sillä edellä mainitut toiminnot onnistuvat kaikilla laitteeseen lisätyillä sormenjäljillä.
+
+Huom. Sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai PIN-koodi. "<annotation link="url">Lisätietoja</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Voit hyväksyä ostoksia tai kirjautua sovelluksiin Pixel Imprintillä.
+
+Ole varovainen lisätessäsi sormenjälkiä – edellä mainitut toiminnot onnistuvat kaikilla laitteeseen lisätyillä sormenjäljillä.
+
+Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprintin avulla voit käyttää sormenjälkeäsi puhelimen näytön käynnistämiseen, lukituksen avaamiseen, ostosten hyväksymiseen ja sovelluksiin kirjautumiseen.
+
+Ole varovainen lisätessäsi sormenjälkiä, sillä edellä mainitut toiminnot onnistuvat kaikilla laitteeseen lisätyillä sormenjäljillä.
+
+Huom. Sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai PIN-koodi."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Vinkki: se on puhelimen takaosassa.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Käynnistä puhelimen näyttö ja avaa sen lukitus yksinkertaisesti koskettamalla Pixel Imprint ‑anturia.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Puhelimen lukituksen avaamisen lisäksi voit käyttää Pixel Imprintiä ostosten hyväksymiseen ja sovellusten käyttöoikeuksien vahvistamiseen. <annotation id="url">Lisätietoja</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Pixel Imprintin käyttö</string>
+  <string name="lock_settings_picker_fingerprint_message">Valitse Pixel Imprintin kanssa käytettävä toissijainen näytönlukitusmenetelmä</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint ja kuvio</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint ja PIN-koodi</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint ja salasana</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Jatka ilman Pixel Imprintiä</string>
+  <string name="fingerprint_unlock_title">Pixel Imprintin avulla voit käyttää sormenjälkeäsi puhelimen lukituksen avaamiseen. Turvallisuussyistä tämä edellyttää, että määrität näytön varalukitustavan.</string>
+  <string name="automatic_storage_manager_text">Varmuuskopioidut kuvat ja videot poistetaan, kun tallennustila on lähes täynnä. Tiedostot ovat yhä käytettävissä Google Kuvissa.</string>
+  <string name="automatic_storage_manager_days_title">Poista varmuuskopioidut kuvat ja videot</string>
+  <string name="automatic_storage_manager_preference_title">Smart Storage</string>
+  <string name="gesture_preference_title">Liikkeet</string>
+  <string name="double_twist_for_camera_mode_summary">Siirry Google Kameran selfie-tilaan tai poistu siitä kiertämällä laitetta kahdesti, kun käytät sovellusta.</string>
+  <string name="automatic_storage_manager_activation_warning">Verkkoyhteyden avulla voit silti käyttää kuvia ja videoita sillä laadulla, millä ne varmuuskopioitiin.</string>
+</resources>

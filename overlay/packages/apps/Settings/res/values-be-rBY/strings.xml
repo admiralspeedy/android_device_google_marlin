@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Дакраніцеся, каб зарэгістраваць адбітак пальца</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint выкарыстоўвае ваш адбітак пальца, каб будзіць і разблакіроўваць ваш тэлефон, аўтарызоўваць куплі або ўваходзіць у праграмы.
+
+Уважліва сачыце за тым, чые адбіткі пальцаў вы дадаяце. Любое з гэтых дзеянняў будзе даступнае для ўсіх уладальнікаў дададзеных адбіткаў пальцаў.
+
+Заўвага. Выкарыстанне адбітка пальца можа быць менш бяспечным, чым складаны ўзор або PIN-код. "<annotation link="url">Даведацца больш</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"З Pixel Imprint вы можаце выкарыстоўваць свой адбітак пальца, каб аўтарызаваць куплі або ўваходзіць у праграмы.
+
+Уважліва сачыце за тым, чые адбіткі пальцаў вы дадаяце. Любое з гэтых дзеянняў будзе даступнае для ўладальніка нават аднаго з адбіткаў пальцаў.
+
+Заўвага. Вы не можаце выкарыстоўваць адбітак пальца для разблакіроўкі гэтай прылады. Для атрымання дадатковай інфармацыі звяжыцеся з адміністратарам арганізацыі."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint выкарыстоўвае ваш адбітак пальца, каб будзіць і разблакіроўваць ваш тэлефон, аўтарызоўваць куплі або ўваходзіць у праграмы.
+
+Уважліва сачыце за тым, чые адбіткі пальцаў вы дадаяце. Любое з гэтых дзеянняў будзе даступнае для ўсіх уладальнікаў дададзеных адбіткаў пальцаў.
+
+Заўвага. Выкарыстанне адбітка пальца можа быць менш бяспечным, чым складаны ўзор або PIN-код."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Падказка. Гэта на задняй панэлі тэлефона.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Проста дакраніцеся да датчыка Pixel Imprint, каб абудзіць і разблакіраваць тэлефон.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Акрамя разблакіроўкі тэлефона вы можаце выкарыстоўваць Pixel Imprint для аўтарызацыі купляў і доступу да праграм. <annotation id="url">Даведацца больш</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Выкарыстоўвайце Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Выберыце дадатковы спосаб блакіроўкі экрана для выкарыстання з Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + узор</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN-код</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + пароль</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Працягнуць без Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">З Pixel Imprint вы можаце разблакіроўваць тэлефон адбіткам пальца. У мэтах бяспекі для гэтага варыянта патрабуецца дадатковы спосаб блакіроўкі экрана.</string>
+  <string name="automatic_storage_manager_text">Калі сховішча амаль запоўнена, выдаліце рэзервовыя копіі фатаграфій і відэа. Яны па-ранейшаму будуць даступныя ў Google Фота.</string>
+  <string name="automatic_storage_manager_days_title">Выдаліць фота і відэа, для якіх створаны рэзервовыя копіі</string>
+  <string name="automatic_storage_manager_preference_title">Разумнае сховішча</string>
+  <string name="gesture_preference_title">Рухі</string>
+  <string name="double_twist_for_camera_mode_summary">Для пераключэння ў рэжым сэлфі і выхаду з яго ў Камеры Google пакруціце прыладай двойчы, калі знаходзіцеся ў праграме</string>
+  <string name="automatic_storage_manager_activation_warning">Калі вы падключаны, вы па-ранейшаму можаце атрымліваць доступ да фота і відэа ў якасці, якую вы выбіралі для рэзервовага капіравання</string>
+</resources>

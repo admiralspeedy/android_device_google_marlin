@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Nexus Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Toque para definir uma impressão digital</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Nexus Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"O Nexus Imprint usa sua impressão digital para ativar e desbloquear o smartphone, autorizar compras ou fazer login em apps.
+
+Tome cuidado com as impressões digitais que adicionar. Todas as impressões digitais adicionadas poderão realizar essas ações.
+
+Observação: sua impressão digital pode ser menos segura do que um padrão forte ou PIN. "<annotation link="url">Saiba mais</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Com o Nexus Imprint, é possível usar sua impressão digital para autorizar compras ou fazer login em apps.
+
+Tome cuidado com as impressões digitais que adicionar, pois todas elas poderão realizar essas ações.
+
+Observação: Não é possível usar sua impressão digital para desbloquear este dispositivo. Para ver mais informações, entre em contato com o administrador da sua organização."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"O Nexus Imprint usa sua impressão digital para ativar e desbloquear o smartphone, autorizar compras ou fazer login em apps.
+
+Tome cuidado com as impressões digitais que adicionar, pois todas elas poderão realizar essas ações.
+
+Observação: Sua impressão digital pode ser menos segura do que um PIN ou padrão forte."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Dica: fica na parte de trás do smartphone.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Basta tocar no sensor do Nexus Imprint para ativar e desbloquear o smartphone.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Além de desbloquear seu smartphone, você também pode usar o Nexus Imprint para autorizar compras e acesso a apps. <annotation id="url">Saiba mais</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Usar o Nexus Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Escolha um bloqueio de tela secundário para usar com o Nexus Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Nexus Imprint + padrão</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Nexus Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Nexus Imprint + senha</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Continuar sem Nexus Imprint</string>
+  <string name="fingerprint_unlock_title">Com o Nexus Imprint, é possível desbloquear o smartphone usando sua impressão digital. Por razões de segurança, essa opção requer um bloqueio de tela alternativo.</string>
+  <string name="automatic_storage_manager_text">Quando o armazenamento estiver quase cheio, remova fotos e vídeos salvos em backup. Ainda é possível encontrá-los no Google Fotos.</string>
+  <string name="automatic_storage_manager_days_title">Fotos e vídeos salvos em backup removidos</string>
+  <string name="automatic_storage_manager_preference_title">Armazenamento inteligente</string>
+  <string name="gesture_preference_title">Movimentos</string>
+  <string name="double_twist_for_camera_mode_summary">Para ativar ou desativar o modo selfie na Câmera do Google, gire duas vezes quando estiver no app</string>
+  <string name="automatic_storage_manager_activation_warning">Quando você está conectado, ainda é possível acessar fotos e vídeos na qualidade selecionada para backup</string>
+</resources>

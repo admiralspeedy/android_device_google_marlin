@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Appuyez ici pour configurer une empreinte digitale.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint utilise vos empreintes digitales pour activer et déverrouiller votre téléphone, autoriser des achats ou vous connecter à des applications.
+
+Toutes les personnes dont les empreintes digitales sont ajoutées sur votre téléphone peuvent effectuer ces opérations. Choisissez donc ces personnes avec soin.
+
+Remarque : Vos empreintes digitales peuvent être moins sécurisées qu'un schéma ou un code fiables. "<annotation link="url">En savoir plus</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint vous permet d'utiliser votre empreinte digitale pour autoriser des achats ou vous connecter à des applications.
+
+Toutes les personnes dont les empreintes digitales sont ajoutées peuvent effectuer ces opérations. Choisissez donc ces personnes avec soin.
+
+Remarque : vous ne pouvez pas utiliser votre empreinte digitale pour déverrouiller cet appareil. Pour plus d'informations, contactez l'administrateur de votre organisation."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint utilise vos empreintes digitales pour activer et déverrouiller votre téléphone, autoriser des achats ou vous connecter à des applications.
+
+Toutes les personnes dont les empreintes digitales sont ajoutées sur votre téléphone peuvent effectuer ces opérations. Choisissez donc ces personnes avec soin.
+
+Remarque : Vos empreintes digitales peuvent être moins sécurisées qu'un schéma ou un code fiables."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">"Astuce : Il se trouve à l'arrière de votre téléphone."</string>
+  <string name="setup_fingerprint_enroll_finish_message">"Il vous suffit d'appuyer sur le lecteur Pixel Imprint pour activer et déverrouiller votre téléphone."</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">"Vous pouvez utiliser Pixel Imprint pour déverrouiller votre téléphone, mais aussi pour autoriser des achats et l'accès aux applications. "<annotation id="url">En savoir plus</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Utiliser Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">"Sélectionnez un mode alternatif de verrouillage de l'écran avec Pixel Imprint."</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + schéma</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + code</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + mot de passe</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Continuer sans Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">"Avec Pixel Imprint, vous pouvez déverrouiller votre téléphone à l'aide de votre empreinte digitale. Pour plus de sécurité, cette option doit être associée à un autre mode de verrouillage de l'écran."</string>
+  <string name="automatic_storage_manager_text">Lorsque votre espace de stockage est presque plein, supprimez les photos et les vidéos sauvegardées. Vous pourrez toujours les consulter dans Google Photos.</string>
+  <string name="automatic_storage_manager_days_title">Supprimer les photos et vidéos sauvegardées</string>
+  <string name="automatic_storage_manager_preference_title">Smart Storage</string>
+  <string name="gesture_preference_title">Mouvements</string>
+  <string name="double_twist_for_camera_mode_summary">"Pour activer ou désactiver le mode selfie de l'appareil photo Google, ouvrez l'application et effectuez un double mouvement de rotation du poignet."</string>
+  <string name="automatic_storage_manager_activation_warning">Lorsque vous êtes connecté à Internet, vous pouvez toujours accéder à vos photos et vidéos dans la qualité que vous avez choisie pour leur sauvegarde.</string>
+</resources>

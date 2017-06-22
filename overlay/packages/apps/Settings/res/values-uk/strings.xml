@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Торкніться, щоб додати відбиток пальця</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"За допомогою відбитка пальця зі сканера Pixel Imprint ви можете активувати чи розблоковувати телефон, дозволяти покупки або входити в додатки.
+
+Будьте обачні, оскільки приймається будь-який відбиток, доданий на телефон.
+
+Примітка. Відбиток пальця може бути менш надійним, ніж ключ або PIN-код. "<annotation link="url">Докладніше</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"За допомогою Pixel Imprint можна підтверджувати покупки та входити в додатки за допомогою відбитка пальця.
+
+Це можна зробити за допомогою будь-якого відбитка, доданого на телефон. Тож будьте обачні.
+
+Примітка. Відбитком пальця не можна розблоковувати пристрій. Щоб отримати докладнішу інформацію, зв’яжіться з адміністратором своєї організації."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"За допомогою відбитка пальця зі сканера Pixel Imprint ви можете активувати чи розблоковувати телефон, дозволяти покупки або входити в додатки.
+
+Будьте обачні, оскільки приймається будь-який відбиток, доданий на телефон.
+
+Примітка. Відбиток пальця може бути менш надійним, ніж ключ або PIN-код."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Підказка. Сканер Nexus Imprint розташовано на задній панелі телефона.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Щоб активувати або розблокувати телефон, просто торкніться сканера Pixel Imprint.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">За допомогою сканера Pixel Imprint ви можете не лише розблоковувати телефон, а й дозволяти покупки та входити в додатки. <annotation id="url">Докладніше</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Як використовувати Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Виберіть резервний спосіб розблокування екрана на додачу до Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + ключ</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN-код</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + пароль</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Продовжити без Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">За допомогою Pixel Imprint ви можете розблоковувати свій телефон відбитком пальця. З міркувань безпеки для цього методу потрібно налаштувати резервний спосіб блокування екрана.</string>
+  <string name="automatic_storage_manager_text">Коли сховище буде майже заповнене, вилучіть автоматично завантажені фото й відео. Вони залишатимуться в Google Фото.</string>
+  <string name="automatic_storage_manager_days_title">Видалити резервні копії фото й відео</string>
+  <string name="automatic_storage_manager_preference_title">Інтелектуальне сховище</string>
+  <string name="gesture_preference_title">Жести</string>
+  <string name="double_twist_for_camera_mode_summary">Щоб відкрити чи закрити режим селфі в додатку Google Камера, двічі покрутіть пристроєм</string>
+  <string name="automatic_storage_manager_activation_warning">Коли пристрій під’єднано до мережі, ви маєте доступ до фото й відео в якості, яку вибрали для автозавантаження</string>
+</resources>

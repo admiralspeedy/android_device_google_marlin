@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">"Toca per configurar l'empremta digital"</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint utilitza la teva empremta digital per activar i desbloquejar el telèfon, autoritzar compres o iniciar la sessió en aplicacions.
+
+Vés amb compte amb les empremtes digitals d'altres persones que hi afegeixis, perquè totes podran dur a terme aquestes accions.
+
+Nota: fer servir l'empremta digital pot ser menys segur que utilitzar un patró o un PIN complets. "<annotation link="url">Més informació</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Amb Pixel Imprint, pots fer servir la teva empremta digital per autoritzar una compra o iniciar la sessió en una aplicació.
+
+Vés amb compte a l'hora d'afegir-hi empremtes digitals; tingues present que totes les que hi afegeixis podran dur a terme totes aquestes accions.
+
+Nota: no pots fer servir l'empremta digital per desbloquejar el dispositiu. Per obtenir més informació, contacta amb l'administrador de l'organització."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint utilitza la teva empremta digital per activar i desbloquejar el telèfon, autoritzar compres o iniciar la sessió en aplicacions.
+
+Vés amb compte amb les empremtes digitals d'altres persones que hi afegeixis, perquè totes podran dur a terme aquestes accions.
+
+Nota: fer servir l'empremta digital pot ser menys segur que utilitzar un patró o un PIN complets."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Avís: es troba a la part posterior del telèfon.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Només cal que toquis el sensor de Pixel Imprint per activar i desbloquejar el telèfon.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">"A més d'utilitzar Pixel Imprint per desbloquejar el telèfon, també pots fer servir aquesta funció per autoritzar les compres i l'accés a les aplicacions. "<annotation id="url">Més informació</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Utilitza Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Tria un bloqueig de pantalla de seguretat per utilitzar-lo amb Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + patró</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + contrasenya</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Continua sense Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Amb Pixel Imprint, pots desbloquejar el telèfon amb la teva empremta digital. Per motius de seguretat, per utilitzar aquesta opció cal tenir configurada un bloqueig de pantalla alternatiu.</string>
+  <string name="automatic_storage_manager_text">"Quan gairebé no et quedi espai d'emmagatzematge, suprimeix les còpies de seguretat de fotos i vídeos, que continuaran estant disponibles a Google Fotos."</string>
+  <string name="automatic_storage_manager_days_title">Suprimeix les còpies de seguretat de fotos i vídeos</string>
+  <string name="automatic_storage_manager_preference_title">Emmagatzematge intel·ligent</string>
+  <string name="gesture_preference_title">Moviments</string>
+  <string name="double_twist_for_camera_mode_summary">"Per activar i desactivar el mode selfie a Càmera de Google, fes el gest de doble gir des de l'aplicació"</string>
+  <string name="automatic_storage_manager_activation_warning">Quan estiguis connectat, podràs continuar accedint a les fotos i als vídeos amb la qualitat que hagis seleccionat per a la còpia de seguretat</string>
+</resources>

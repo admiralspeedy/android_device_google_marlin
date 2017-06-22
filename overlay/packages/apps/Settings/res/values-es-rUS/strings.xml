@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Presionar para configurar una huella digital</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint usa tu huella digital para activar y desbloquear tu teléfono, autorizar compras o acceder a las apps.
+
+Ten cuidado, ya que todas las huellas digitales que agregues podrán realizar estas acciones.
+
+Nota: Es posible que las huellas digitales sean menos seguras que un patrón o PIN eficaz. "<annotation link="url">Más información</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Con Pixel Imprint, puedes usar tu huella digital para autorizar compras y acceder a las apps.
+
+Ten cuidado con las personas que agregas, ya que todas las huellas digitales que agregues podrán realizar estas acciones.
+
+Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para obtener más información, comunícate con el administrador de la organización."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint usa tu huella digital para activar y desbloquear tu teléfono, autorizar compras o acceder a las apps.
+
+Ten cuidado, ya que todas las huellas digitales que agregues podrán realizar estas acciones.
+
+Es posible que las huellas digitales sean menos seguras que un patrón o PIN eficaz."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Sugerencia: Se encuentra en la parte posterior del teléfono.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Solo tienes que tocar el sensor de Pixel Imprint para activar y desbloquear tu teléfono.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Además de desbloquear tu teléfono, puedes usar Pixel Imprint para autorizar compras y el acceso a apps. <annotation id="url">Más información</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Usa Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Elige un método de bloqueo de pantalla secundario para usar con Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint y patrón</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint y PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint y contraseña</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Continuar sin Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Con Pixel Imprint puedes desbloquear tu teléfono con tu huella digital. Para mayor seguridad, esta opción requiere un método secundario de bloqueo de pantalla.</string>
+  <string name="automatic_storage_manager_text">Cuando el almacenamiento esté casi completo, quita las fotos y los videos con copia de seguridad. Aún podrás encontrar ese contenido en Google Fotos.</string>
+  <string name="automatic_storage_manager_days_title">Quitar fotos y videos con copia de seguridad</string>
+  <string name="automatic_storage_manager_preference_title">Almacenamiento inteligente</string>
+  <string name="gesture_preference_title">Movimientos</string>
+  <string name="double_twist_for_camera_mode_summary">Para activar y desactivar el modo de selfie en la Cámara de Google, gira el dispositivo dos veces cuando estés en la app</string>
+  <string name="automatic_storage_manager_activation_warning">Cuando estés conectado, seguirás teniendo acceso a fotos y videos en la calidad que seleccionaste para la copia de seguridad</string>
+</resources>

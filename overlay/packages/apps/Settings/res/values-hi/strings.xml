@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">फ़िंगरप्रिंट सेट करने के लिए टैप करें</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint आपके फ़ोन को सक्रिय करने और अनलॉक करने, खरीदारियां प्राधिकृत करने या ऐप्लिकेशन में प्रवेश करने के लिए आपके फ़िंगरप्रिंट का उपयोग करता है.
+
+फ़िंगरप्रिंट जोड़ते समय सावधानी बरतें. जोड़ा गया कोई भी फ़िंगरप्रिंट इन कार्यों को कर सकेगा.
+
+नोट: आपका फ़िंगरप्रिंट किसी सशक्त पैटर्न या पिन की अपेक्षा कम सुरक्षित हो सकता है. "<annotation link="url">अधिक जानें</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint के साथ, आप खरीदारियां अधिकृत करने या ऐप्लिकेशन में प्रवेश करने के लिए अपने फ़िंगरप्रिंट का उपयोग कर सकते हैं.
+
+इस बारे में सावधानी रखें कि आप किसके फ़िंगरप्रिंट जोड़ रहे हैं. जोड़ेे गए किसी भी फ़िंगरप्रिंट से ये कार्य किए जा सकते हैं.
+
+ध्यान दें: आप इस डिवाइस को अनलॉक करने के लिए अपने फ़िंगरप्रिंट का उपयोग नहीं कर सकते हैं. अधिक जानकारी के लिए, अपने संगठन के व्यवस्थापक से संपर्क करें."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint आपके फ़ोन को सक्रिय करने और अनलॉक करने, खरीदारियां प्राधिकृत करने या ऐप्लिकेशन में प्रवेश करने के लिए आपके फ़िंगरप्रिंट का उपयोग करता है.
+
+फ़िंगरप्रिंट जोड़ते समय सावधानी बरतें. जोड़ा गया कोई भी फ़िंगरप्रिंट इन कार्यों को कर सकेगा.
+
+नोट: आपका फ़िंगरप्रिंट किसी सशक्त पैटर्न या पिन की अपेक्षा कम सुरक्षित हो सकता है."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">संकेत: वह आपके फ़ोन के पीछे दिया गया है.</string>
+  <string name="setup_fingerprint_enroll_finish_message">अपने फ़ोन को सक्रिय करने और अनलॉक करने के लिए बस अपने Pixel Imprint सेंसर को स्पर्श करें.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">अपना फ़ोन अनलॉक करने के अलावा, आप Pixel Imprint का उपयोग खरीदारियां और ऐप्लिकेशन एक्सेस अधिकृत करने के लिए भी कर सकते हैं. <annotation id="url">अधिक जानें</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Pixel Imprint का उपयोग करें</string>
+  <string name="lock_settings_picker_fingerprint_message">Pixel Imprint के साथ उपयोग करने के लिए एक बैकअप स्‍क्रीन लॉक चुनें</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + पैटर्न</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + पिन</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + पासवर्ड</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint के बिना जारी रखें</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint से, आप अपने फ़िंगरप्रिंट का उपयोग करके अपना फ़ोन अनलॉक कर सकते हैं. सुरक्षा के लिए, इस विकल्प के लिए बैकअप स्क्रीन लॉक आवश्यक है.</string>
+  <string name="automatic_storage_manager_text">जगह लगभग पूरी तरह भर जाने पर, बैकअप ली गईं फ़ोटो और वीडियो निकालें. वे आपको अभी भी Google में मिल सकते हैं.</string>
+  <string name="automatic_storage_manager_days_title">बैकअप ली गईं फ़ोटो और वीडियो निकालें</string>
+  <string name="automatic_storage_manager_preference_title">स्मार्ट मेमोरी</string>
+  <string name="gesture_preference_title">हलचल</string>
+  <string name="double_twist_for_camera_mode_summary">Google कैमरा में स्वयं की फ़ोटो लेने वाले मोड में आने और उससे बाहर होने के बीच बदलाव करने के लिए, जब आप ऐप्लिकेशन में हों तब डबल-ट्‍विस्ट करें</string>
+  <string name="automatic_storage_manager_activation_warning">जब आप कनेक्ट हो जाते हैं, तब भी आप बैकअप के लिए चुनी गई गुणवत्ता में फ़ोटो और वीडियो एक्सेस कर सकते हैं</string>
+</resources>

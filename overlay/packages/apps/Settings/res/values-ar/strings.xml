@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">انقر لإعداد بصمة الإصبع</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"‏تستخدم ميزة \"Pixel Imprint\" بصمة إصبعك لتنشيط هاتفك وإلغاء قفله، أو السماح بعمليات الشراء أو تسجيل الدخول إلى التطبيقات.
+
+عليك توخي الحذر عند اختيار أشخاص لإضافة بصمات إصبعهم، لأن أي بصمة إصبع تتم إضافتها ستكون قادرة على تنفيذ هذه الإجراءات.
+
+ملاحظة: يمكن أن يكون استخدام بصمة الإصبع أقل أمانًا من استخدام نقش أو رقم تعريف شخصي قوي. "<annotation link="url">مزيد من المعلومات</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"‏تتيح لك ميزة Pixel Imprint استخدام بصمة إصبعك للسماح بعمليات الشراء أو تسجيل الدخول إلى التطبيقات.
+
+وعليك توخي الحذر عند اختيار الأشخاص الذين تضيف بصمة أصابعهم؛ لأن أي بصمة منها تتيح لصاحبها تنفيذ أي إجراء من الإجراءات التالية.
+
+ملاحظة: لا يمكنك استخدام بصمة إصبعك لإلغاء تأمين هذا الجهاز. للمزيد من المعلومات، اتصل بمشرف المؤسسة."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"‏تستخدم ميزة \"Pixel Imprint\" بصمة إصبعك لتنشيط هاتفك وإلغاء قفله، أو السماح بعمليات الشراء أو تسجيل الدخول إلى التطبيقات.
+
+عليك توخي الحذر عند اختيار أشخاص لإضافة بصمات إصبعهم، لأن أي بصمة إصبع تتم إضافتها ستكون قادرة على تنفيذ هذه الإجراءات.
+
+ملاحظة: يمكن أن يكون استخدام بصمة الإصبع أقل أمانًا من استخدام نقش أو رقم تعريف شخصي قوي."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">تلميح: جهاز الاستشعار موجود على الجزء الخلفي لهاتفك.</string>
+  <string name="setup_fingerprint_enroll_finish_message">‏المس جهاز استشعار ميزة \"Nexus Imprint\" لتنشيط هاتفك وإلغاء قفله.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">‏بالإضافة إلى إلغاء قفل هاتفك، يمكنك أيضًا استخدام Pixel Imprint للتفويض بعمليات الشراء والوصول إلى التطبيقات. <annotation id="url">مزيد من المعلومات</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">‏استخدام Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">‏اختر قفل شاشة احتياطيًا لاستخدامه مع Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">‏Pixel Imprint ونقش</string>
+  <string name="fingerprint_unlock_set_unlock_pin">‏Pixel Imprint ورقم تعريف شخصي</string>
+  <string name="fingerprint_unlock_set_unlock_password">‏Pixel Imprint وكلمة مرور</string>
+  <string name="fingerprint_unlock_skip_fingerprint">‏المتابعة بدون Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">‏باستخدام Pixel Imprint، يمكنك إلغاء قفل هاتفك باستخدام بصمة إصبعك. ولأغراض تتعلق بالأمان، يتطلب هذا الخيار قفل شاشة احتياطيًا.</string>
+  <string name="automatic_storage_manager_text">‏عندما توشك سعة التخزين على الامتلاء، عليك إزالة الصور ومقاطع الفيديو التي تم الاحتفاظ بنسخة احتياطية منها؛ وسيظل بإمكانك العثور عليها في صور Google.</string>
+  <string name="automatic_storage_manager_days_title">إزالة الصور ومقاطع الفيديو التي تم الاحتفاظ بنسخة احتياطية منها</string>
+  <string name="automatic_storage_manager_preference_title">سعة التخزين الذكية</string>
+  <string name="gesture_preference_title">الحركات</string>
+  <string name="double_twist_for_camera_mode_summary">‏للتبديل بين تشغيل وضع الصورة الذاتية وإيقافه في كاميرا Google، لف الهاتف مرتين عندما تكون داخل التطبيق.</string>
+  <string name="automatic_storage_manager_activation_warning">عند الاتصال، سيظل بإمكانك الوصول إلى الصور ومقاطع الفيديو بالجودة التي حددتها للنسخ الاحتياطي</string>
+</resources>

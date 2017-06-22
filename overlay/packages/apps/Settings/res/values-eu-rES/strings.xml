@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Hatz-marka konfiguratzeko, sakatu hau</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint zerbitzuak zure hatz-marka erabiltzen du telefonoa aktibatzeko eta desblokeatzeko, erosketak baimentzeko eta aplikazioetan saioa hasteko.
+
+Kontuz aukeratu gehitzen dituzun pertsonak; izan ere, telefonoan gehitutako hatz-marka guztiekin egin daiteke hori guztia.
+
+Oharra: hatz-marka ez da eredu edo PIN konplexu bat bezain segurua. "<annotation link="url">Lortu informazio gehiago</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint erabilita, erosketak baimentzeko edo aplikazioetan saioa hasteko erabil dezakezu hatz-marka.
+
+Erne noren hatz-markak gehitzen dituzun; gehitzen duzun edozein hatz-markarekin egin ahal izango baitituzu ekintza horiek.
+
+Oharra: ezin duzu erabili hatz-marka gailua desblokeatzeko. Informazio gehiago lortzeko, jarri erakundearen administratzailearekin harremanetan."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint zerbitzuak zure hatz-marka erabiltzen du telefonoa aktibatzeko eta desblokeatzeko, erosketak baimentzeko eta aplikazioetan saioa hasteko.
+
+Kontuz aukeratu gehitzen dituzun pertsonak; izan ere, telefonoan gehitutako hatz-marka guztiekin egin daiteke hori guztia.
+
+Oharra: hatz-marka ez da eredu edo PIN konplexu bat bezain segurua."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Argibidea: telefonoaren atzealdean dago.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Ukitu Pixel Imprint sentsorea telefonoa aktibatzeko eta desblokeatzeko.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Telefonoa desblokeatzeaz gain, erosketak baimentzeko eta aplikazioetan sartzeko ere erabil dezakezu Pixel Imprint. <annotation id="url">Lortu informazio gehiago</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Erabili Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Aukeratu Pixel Imprint-ekin erabili beharreko pantailaren blokeoa</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Eredua</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN kodea</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Pasahitza</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Jarraitu Pixel Imprint erabili gabe</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint-ekin, hatz-marka erabilita desblokea dezakezu telefonoa. Segurtasuna bermatzeko, ordezko pantailaren blokeoa ere erabili behar da.</string>
+  <string name="automatic_storage_manager_text">Memoria betetzeko gutxi falta denean, kendu babeskopiak dituzten argazkiak eta bideoak (Google Argazkiak zerbitzuan izango dituzu gordeta).</string>
+  <string name="automatic_storage_manager_days_title">Kendu babeskopiak dituzten argazkiak eta bideoak</string>
+  <string name="automatic_storage_manager_preference_title">Memoria adimenduna</string>
+  <string name="gesture_preference_title">Keinuak</string>
+  <string name="double_twist_for_camera_mode_summary">Google Kamera aplikazioaren autoargazki modua aktibatu eta desaktibatzeko, biratu birritan eskumuturra</string>
+  <string name="automatic_storage_manager_activation_warning">Konektatuta zaudenean, babeskopiak egiteko hautatu duzun kalitatean ikusi ahal izango dituzu argazkiak eta bideoak</string>
+</resources>

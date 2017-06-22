@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Пиксел дардас</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Хурууны хээ тохируулахын тулд дарна уу</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Пиксел дардас</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Пиксел дардас таны утсыг асаах, түгжих, худалдан авалт баталгаажуулах, эсвэл апп-д нэвтрэхийн тулд таны хурууны хээг ашигладаг.
+
+Хурууных нь хээг нэмэх хүнээ болгоомжтой сонгоно уу. Хурууных нь хээг нэмсэн хүн эдгээр зүйлийг хийх боломжтой
+
+Санамж: Таны хурууны хээ хүчтэй зурган түгжээ эсвэл ПИН-с хамгаалалт багатай байж болзошгүй. "<annotation link="url">Дэлгэрэнгүй үзэх</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Пиксел дардасны тусламжтайгаар хурууны хээгээр худалдан авалт баталгаажуулах, эсвэл апп-д нэвтрэх боломжтой.
+
+Хурууных нь хээг нэмсэн дурын хүн дээрх үйлдлийг хийх боломжтой тул нэмэх хүнээ хянамгай сонгоно уу.
+
+Санамж: Та энэ төхөөрөмжийн түгжээг хурууны хээгээр тайлах боломжгүй. Дэлгэрэнгүй мэдээлэл авахын тулд байгууллагынхаа админтай холбогдоно уу."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Пиксел дардас таны утсыг сэрээх, түгжих, худалдан авалт баталгаажуулах, эсвэл апп-д нэвтрэхийн тулд таны хурууны хээг ашигладаг.
+
+Хурууных нь хээг нэмэх хүнээ болгоомжтой сонгоно уу. Хурууных нь хээг нэмсэн хүн эдгээр зүйлийг хийх боломжтой
+
+Санамж: Таны хурууны хээ хүчтэй зурган түгжээ эсвэл ПИН-с хамгаалалт багатай байж болзошгүй."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Зөвлөмж: Таны утасны ард талд байгаа.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Утсаа сэрээх, түгжээг нь тайлахын тулд Пиксел дардас мэдрэгчид хүрэхэд л хангалттай.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Пиксел дардасаар утсаа түгжихээс гадна, худалдан авалтаа баталгаажуулах, апп-д хандах боломжтой. <annotation id="url">Дэлгэрэнгүй үзэх</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Пиксел дардас хэрэглэх</string>
+  <string name="lock_settings_picker_fingerprint_message">Пиксел дардастай ашиглах нөөц дэлгэцийн түгжээг сонгох</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Пиксел дардас + Загвар</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Пиксел дардас + ПИН</string>
+  <string name="fingerprint_unlock_set_unlock_password">Пиксел дардас + Нууц үг</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Пиксел дардасгүйгээр үргэлжлүүлэх</string>
+  <string name="fingerprint_unlock_title">Пиксел дардсаар та хурууны хээгээ ашиглаж утасныхаа түгжээг тайлах боломжтой. Аюулгүй байдлын үүднээс энэ сонголтод нөөц дэлгэцийн түгжээ шаардлагатай.</string>
+  <string name="automatic_storage_manager_text">Сангийн багтаамж дүүрсэн тохиолдолд нөөцөлсөн зураг, видеог устгана уу. Эдгээрийг та Google Photos-с олох боломжтой хэвээр байна.</string>
+  <string name="automatic_storage_manager_days_title">Нөөцөлсөн зураг, видеог устгах</string>
+  <string name="automatic_storage_manager_preference_title">Ухаалаг сан</string>
+  <string name="gesture_preference_title">Алхам</string>
+  <string name="double_twist_for_camera_mode_summary">Google Камерын нүүрний зураг авах горимыг унтрааж асаахын тулд апп-г ашиглах үедээ бугуйгаа хоёр эргүүлнэ үү</string>
+  <string name="automatic_storage_manager_activation_warning">Та холбогдсон үедээ нөөцлөхөөр сонгосон чанараар зураг, видеонд хандах боломжтой</string>
+</resources>

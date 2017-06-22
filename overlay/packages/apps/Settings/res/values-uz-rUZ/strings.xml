@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Barmoq izi qo‘shish uchun bosing</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint telefonni uyg‘otish va uni qulfdan chiqarish, xaridlarga ruxsat berish yoki ilovalarga kirish uchun barmoq izingizdan foydalanadi.
+
+Telefoningizga qo‘shilgan barmoq izlari yordamida bu amallarni bajarish mumkin, shuning uchun har qanday barmoq izini ehtiyotkorlik bilan qo‘shing.
+
+Eslatma: Barmoq izining xavfsizlik darajasi grafik kalit yoki PIN kodnikiga qaraganda pastroq bo‘lishi mumkin. "<annotation link="url">Batafsil ma’lumot</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint yordamida xaridlarni amalga oshirish yoki ilovalarga kirish uchun barmoq izidan foydalanish mumkin.
+
+Telefoningizga qo‘shilgan har qanday barmoq izi yordamida bularni bajarish mumkin, shuning uchun ehtiyot undan bo‘lib foydalaning.
+
+Eslatma: barmoq izi orqali qurilmani qulfdan chiqara olmaysiz. Batafsil ma’lumot olish uchun tashkilot administratori bilan bog‘laning."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint telefonni uyg‘otish va uni qulfdan chiqarish, xaridlarga ruxsat berish yoki ilovalarga kirish uchun barmoq izingizdan foydalanadi.
+
+Telefoningizga qo‘shilgan barmoq izlari yordamida bu amallarni bajarish mumkin, shuning uchun har qanday barmoq izini ehtiyotkorlik bilan qo‘shing.
+
+Eslatma: Barmoq izining xavfsizlik darajasi grafik kalit yoki PIN kodnikiga qaraganda pastroq bo‘lishi mumkin."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Maslahat: U telefon orqasida joylashgan.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Telefonni uyg‘otish yoki qulfdan chiqarish uchun barmog‘ingizni Pixel Imprint sensoriga qo‘yishingiz kifoya.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Pixel Imprint yordamida nafaqat telefonni qulfdan chiqarish, balki xaridlarni tasdiqlash va ilovalarga kirish ham mumkin. <annotation id="url">Batafsil ma’lumot</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Pixel Imprint sensoridan foydalaning</string>
+  <string name="lock_settings_picker_fingerprint_message">Ekranni qulflash uchun Pixel Imprintdan tashqari yana biror usulni tanlang</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + chizmali kalit</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN kod</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + parol</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint sensorisiz davom ettirish</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint sensori yordamida telefonni barmoq izi orqali qulfdan chiqarish mumkin. Xavfsizlik maqsadida bu parametr uchun zaxiraviy usul sifatida ekran qulfini sozlash kerak.</string>
+  <string name="automatic_storage_manager_text">Xotirada joy qolmaganda, zaxiralangan surat va videolarni o‘chirib tashlang. Ularni keyinchalik Google Photos orqali topishingiz mumkin.</string>
+  <string name="automatic_storage_manager_days_title">Zaxiralangan surat va videolarni o‘chirib tashlash</string>
+  <string name="automatic_storage_manager_preference_title">Aqlli xotira</string>
+  <string name="gesture_preference_title">Harakatlar</string>
+  <string name="double_twist_for_camera_mode_summary">Google Kamera ilovasida selfie rejimga o‘tish uchun ilova ochiqligida qurilmani ikki marta silkiting</string>
+  <string name="automatic_storage_manager_activation_warning">Internetga ulangan vaqtda surat va videolarni yuklab olish paytida tanlangan sifatda tomosha qilishingiz mumkin.</string>
+</resources>

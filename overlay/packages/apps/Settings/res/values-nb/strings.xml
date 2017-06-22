@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Trykk for å konfigurere fingeravtrykk</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint bruker fingeravtrykket ditt for å vekke og låse opp telefonen din, autorisere kjøp og logge på apper.
+
+Vær forsiktig med hvem sine fingeravtrykk du legger til. Alle fingeravtrykkene som legges til, kan brukes til å gjøre disse tingene.
+
+Merk: Fingeravtrykket ditt kan være mindre sikkert enn et sterkt mønster eller en PIN-kode. "<annotation link="url">Finn ut mer</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Med Pixel Imprint kan du bruke fingeravtrykket ditt til å autorisere kjøp eller logge på apper.
+
+Tenk over hvilke fingeravtrykk du legger til. Alle fingeravtrykkene du legger, til kan gjøre alt dette.
+
+Merk: Du kan ikke bruke fingeravtrykket ditt til å låse opp dette enheten. For mer informasjon, kontakt administratoren for organisasjonen din."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint bruker fingeravtrykket ditt til å vekke og låse opp telefonen din, autorisere kjøp og logge på apper.
+
+Vær forsiktig med hvem sine fingeravtrykk du legger til. Alle fingeravtrykkene som legges til, kan brukes til å gjøre disse tingene.
+
+Merk: Fingeravtrykket ditt kan være mindre sikkert enn et sterkt mønster eller en PIN-kode."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Hint: Den er på baksiden av telefonen.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Bare berør Pixel Imprint-sensoren for å vekke og låse opp telefonen.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">I tillegg til å låse opp telefonen din kan du bruke Pixel Imprint til å autorisere kjøp og apptilgang. <annotation id="url">Finn ut mer</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Bruk Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Velg en reservelåseskjerm for Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + mønster</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN-kode</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + passord</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Fortsett uten Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Med Pixel Imprint kan du låse opp telefonen din med fingeravtrykket ditt. Av sikkerhetsmessige årsaker krever dette alternativet en reservelåseskjerm.</string>
+  <string name="automatic_storage_manager_text">Når du nesten er tom for lagringsplass, kan du fjerne sikkerhetskopierte bilder og videoer. Du finner dem fremdeles i Google Foto.</string>
+  <string name="automatic_storage_manager_days_title">Fjern sikkerhetskopierte bilder og videoer</string>
+  <string name="automatic_storage_manager_preference_title">Smart lagring</string>
+  <string name="gesture_preference_title">Bevegelser</string>
+  <string name="double_twist_for_camera_mode_summary">For å gå inn eller ut av selfie-modus i Google Kamera, vri to ganger når du er i appen</string>
+  <string name="automatic_storage_manager_activation_warning">Når du er tilkoblet, har du fremdeles tilgang til bilder og videoer med kvaliteten du valgte for sikkerhetskopiering</string>
+</resources>

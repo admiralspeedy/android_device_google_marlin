@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Puudutage sõrmejälje seadistamiseks</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint kasutab teie telefoni äratamiseks ja avamiseks, ostude volitamiseks ning rakendustesse sisselogimiseks teie sõrmejälge.
+
+Olge sõrmejälgede lisamisel ettevaatlik – kõigi lisatud sõrmejälgedega saab neid toiminguid teha.
+
+Märkus. Teie sõrmejälg võib olla vähem turvaline kui tugev muster või PIN-kood. "<annotation link="url">Lisateave</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Seadmega Pixel Imprint saate ostude volitamiseks või rakendustesse sisselogimiseks kasutada oma sõrmejälge.
+
+Olge sõrmejälgede lisamisel ettevaatlik. Neid toiminguid saab teha kõigi lisatud sõrmejälgedega.
+
+Märkus. Te ei saa sõrmejälge kasutada selle seadme avamiseks. Lisateabe saamiseks võtke ühendust organisatsiooni administraatoriga."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint kasutab teie telefoni äratamiseks ja avamiseks, ostude volitamiseks ning rakendustesse sisselogimiseks teie sõrmejälge.
+
+Olge sõrmejälgede lisamisel ettevaatlik – kõigi lisatud sõrmejälgedega saab neid toiminguid teha.
+
+Märkus. Teie sõrmejälg võib olla vähem turvaline kui tugev muster või PIN-kood."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Vihje: see asub telefoni tagaküljel.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Telefoni äratamiseks ja avamiseks puudutage lihtsalt Pixel Imprinti andurit.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Lisaks telefoni avamisele saate funktsiooni Pixel Imprint kasutada ka ostude ja rakendustele juurdepääsu volitamiseks. <annotation id="url">Lisateave</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Kasutage Pixel Imprinti</string>
+  <string name="lock_settings_picker_fingerprint_message">Valige varuekraanilukk, mida funktsiooniga Pixel Imprint kasutada</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + muster</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN-kood</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + parool</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Jätkake ilma Pixel Imprintita</string>
+  <string name="fingerprint_unlock_title">Pixel Imprintiga saate telefoni avada oma sõrmejäljega. Turvalisuse tagamiseks nõuab see valik varuekraanilukku.</string>
+  <string name="automatic_storage_manager_text">Kui salvestusruum hakkab täis saama, eemaldage varundatud fotod ja videod. Leiate need edaspidi teenusest Google Photos.</string>
+  <string name="automatic_storage_manager_days_title">Varundatud fotode ja videote eemaldamine</string>
+  <string name="automatic_storage_manager_preference_title">Nutikas salvestusruum</string>
+  <string name="gesture_preference_title">Liigutused</string>
+  <string name="double_twist_for_camera_mode_summary">"Google'i kaameras selfirežiimi sisse- ja väljalülitamiseks pöörake rakenduses olles kaks korda"</string>
+  <string name="automatic_storage_manager_activation_warning">Kui olete ühendatud, pääsete fotodele ja videotele juurde siiski kvaliteediga, mille varundamiseks valisite</string>
+</resources>

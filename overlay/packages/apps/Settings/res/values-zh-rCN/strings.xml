@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">点按即可设置指纹</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint 会使用您的指纹来唤醒和解锁手机，对购买交易进行授权或登录应用。
+
+请务必谨慎添加指纹，因为添加的任何指纹都能够用来执行上述操作。
+
+请注意：指纹识别的安全性可能不及安全系数较高的图案或 PIN 码。"<annotation link="url">了解详情</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"借助 Pixel Imprint，您可以使用自己的指纹对购买交易进行授权或登录应用。
+
+请务必谨慎添加指纹，因为添加的任何指纹都能够用来执行上述操作。
+
+注意：您无法使用指纹来解锁此设备。要了解详情，请与贵单位的管理员联系。"</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint 会使用您的指纹来唤醒和解锁您的手机、对购买交易进行授权或登录应用。
+
+请务必谨慎添加指纹，因为添加的任何指纹都能够用来执行上述操作。
+
+请注意：指纹识别的安全性可能不及安全系数较高的图案或 PIN 码。"</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">提示：指纹传感器位于您手机的背面。</string>
+  <string name="setup_fingerprint_enroll_finish_message">只需触摸 Pixel Imprint 传感器即可唤醒和解锁手机。</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">除了解锁手机外，您还可以使用 Pixel Imprint 对购买交易进行授权以及登录应用。<annotation id="url">了解详情</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">使用 Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">请选择要与 Pixel Imprint 搭配使用的备用屏幕锁定方式</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + 图案</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN 码</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + 密码</string>
+  <string name="fingerprint_unlock_skip_fingerprint">不使用 Pixel Imprint 并继续</string>
+  <string name="fingerprint_unlock_title">借助 Pixel Imprint，您可以使用自己的指纹将手机解锁。为了安全起见，此选项要求您使用备用屏幕锁定方式。</string>
+  <string name="automatic_storage_manager_text">当存储空间即将用尽时，系统会移除已备份的照片和视频。不过，您仍然可以在 Google 照片中找到这些内容。</string>
+  <string name="automatic_storage_manager_days_title">移除已备份的照片和视频</string>
+  <string name="automatic_storage_manager_preference_title">智能存储空间</string>
+  <string name="gesture_preference_title">手势</string>
+  <string name="double_twist_for_camera_mode_summary">要在 Google 相机应用中开启或关闭自拍模式，只需转动两次设备即可（前提是目前正在使用该应用）</string>
+  <string name="automatic_storage_manager_activation_warning">连接到网络后，您仍可以按备份时选择的分辨率来查看照片和视频</string>
+</resources>

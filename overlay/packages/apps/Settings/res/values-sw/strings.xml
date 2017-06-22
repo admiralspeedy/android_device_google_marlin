@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Gonga ili uweke mipangilio ya alama ya kidole</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint hutumia alama yako ya kidole kuanzisha au kufungua simu yako, kuidhinisha ununuzi au kuingia katika akaunti za programu.
+
+Kuwa makini unapoongeza alama za vidole. Alama yoyote ya kidole unayoongeza inaweza kufanya mojawapo ya shughuli zilizotajwa hapa.
+
+Kumbuka: Huenda matumizi ya alama ya kidole yasiwe na usalama thabiti ikilinganishwa na matumizi ya mchoro au PIN."<annotation link="url"> Pata maelezo zaidi</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Ukiwa na Pixel Imprint, unaweza kutumia alama ya kidole chako kuidhinisha ununuzi au kuingia katika akaunti ya programu.
+
+ Kuwa mwangalifu unapoongeza alama za vidole. Alama moja ya kidole unayoongeza inaweza kufanya mambo haya.
+
+Kumbuka: Huwezi kutumia alama ya kidole chako kufungua kifaa hiki. Wasiliana na msimamizi wa shirika lako kwa maelezo zaidi."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint hutumia alama yako ya kidole kuanzisha au kufungua simu, kuidhinisha ununuzi au kuingia katika akaunti za programu.
+
+Kuwa makini unapoongeza alama za vidole. Alama yoyote ya kidole unayoongeza inaweza kufanya mojawapo ya shughuli zilizotajwa hapa.
+
+Kumbuka: Huenda matumizi ya alama ya kidole yasiwe na usalama thabiti ikilinganishwa na matumizi ya mchoro au PIN."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Dokezo: Kipo upande wa nyuma wa simu yako.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Gusa tu kitambuzi cha Nexus Imprint ili uanzishe au ufungue simu yako.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Mbali na kufungua simu yako, unaweza pia kutumia Pixel Imprint kuidhinisha ununuzi na kufikia programu. <annotation id="url">Pata maelezo zaidi</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Tumia Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Chagua njia nyingine ya kufunga skrini utakayotumia pamoja na Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Mchoro</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Nenosiri</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Endelea bila Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Ukitumia Pixel Imprint, unaweza kufungua simu yako kwa kutumia alama ya kidole chako. Kwa ajili ya usalama, chaguo hili linahitaji mbinu mbadala ya kufunga skrini.</string>
+  <string name="automatic_storage_manager_text">Wakati hifadhi inapokaribia kujaa, ondoa picha na video zilizohifadhiwa rudufu. Bado unaweza kuzipata katika programu ya Picha kwenye Google.</string>
+  <string name="automatic_storage_manager_days_title">Ondoa picha na video zilizohifadhiwa nakala</string>
+  <string name="automatic_storage_manager_preference_title">Hifadhi Mahiri</string>
+  <string name="gesture_preference_title">Kusogeza</string>
+  <string name="double_twist_for_camera_mode_summary">Ili kuweka na kuondoa hali ya picha ya kujipiga mwenyewe kwenye Kamera ya Google, geuza mara mbili ukiwa umefungua programu</string>
+  <string name="automatic_storage_manager_activation_warning">Unapounganisha, bado unaweza kupata picha na video katika ubora uliochagua kwenye hifadhi rudufu</string>
+</resources>

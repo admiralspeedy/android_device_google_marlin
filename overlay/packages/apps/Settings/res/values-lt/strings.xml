@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Palieskite, kad nustatytumėte piršto atspaudą</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"„Pixel Imprint“ naudoja jūsų piršto atspaudą telefonui pažadinti ir atrakinti, pirkimo operacijoms įgalioti ar prisijungti prie programų.
+
+Naudojant visus pridėtus piršto atspaudus bus galima atlikti šiuos veiksmus, todėl atidžiai rinkitės, kieno piršto atspaudus pridedate.
+
+Pastaba: piršto atspaudas gali būti ne toks saugus kaip sudėtingas atrakinimo piešinys ar PIN kodas. "<annotation link="url">Sužinokite daugiau</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Naudodami „Pixel Imprint“ galite įgalioti pirkimo veiksmus arba prisijungti prie programų kontroliniu kodu.
+
+Atidžiai rinkitės, kieno kontrolinius kodus pridedate. Bet kuriuo pridėtu kontroliniu kodu galima atlikti visus šiuos veiksmus.
+
+Pastaba: naudodami kontrolinį kodą šio įrenginio atrakinti negalite. Daugiau informacijos galite gauti susisiekę su organizacijos administratoriumi."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"„Pixel Imprint“ naudoja jūsų piršto atspaudą telefonui pažadinti ir atrakinti, pirkimo operacijoms įgalioti ar prisijungti prie programų.
+
+Naudojant visus pridėtus piršto atspaudus bus galima atlikti šiuos veiksmus, todėl atidžiai rinkitės, kieno piršto atspaudus pridedate.
+
+Pastaba: piršto atspaudas gali būti ne toks saugus kaip sudėtingas atrakinimo piešinys ar PIN kodas."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Patarimas: jis yra telefono užpakalinėje dalyje.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Tiesiog palieskite „Pixel Imprint“ jutiklį, kad pažadintumėte ir atrakintumėte telefoną.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Be telefono atrakinimo funkcijos, taip pat galite naudoti „Pixel Imprint“ pirkimo operacijoms ir prieigai prie programų įgalioti. <annotation id="url">Sužinokite daugiau</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">„Pixel Imprint“ naudojimas</string>
+  <string name="lock_settings_picker_fingerprint_message">Pasirinkite atsarginį „Pixel Imprint“ naudotiną ekrano užraktą</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">„Pixel Imprint“ + atrakinimo piešinys</string>
+  <string name="fingerprint_unlock_set_unlock_pin">„Pixel Imprint“ + PIN kodas</string>
+  <string name="fingerprint_unlock_set_unlock_password">„Pixel Imprint“ + slaptažodis</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Tęsti nenaudojant „Pixel Imprint“</string>
+  <string name="fingerprint_unlock_title">Naudodami „Pixel Imprint“ telefoną galite atrakinti kontroliniu kodu. Saugos sumetimais, įgalinus šią parinktį, reikia naudoti atsarginį ekrano užraktą.</string>
+  <string name="automatic_storage_manager_text">Jei saugykla yra beveik pilna, pašalinkite nuotraukas ir vaizdo įrašus, kurių atsarginė kopija buvo sukurta. Juos vis dar galite rasti „Google“ nuotraukose.</string>
+  <string name="automatic_storage_manager_days_title">Pašalinti nuotraukas ir vaizdo įrašus, kurių atsarginė kopija sukurta</string>
+  <string name="automatic_storage_manager_preference_title">Išmanioji saugykla</string>
+  <string name="gesture_preference_title">Perkelia</string>
+  <string name="double_twist_for_camera_mode_summary">Kad įjungtumėte ir išjungtumėte „Google“ fotoaparato autoportreto režimą, dukart pasukite atidarę programą</string>
+  <string name="automatic_storage_manager_activation_warning">Kai būsite prisijungę, vis tiek galėsite pasiekti atsarginės kopijos nustatymuose nurodytos kokybės nuotraukas ir vaizdo įrašus</string>
+</resources>

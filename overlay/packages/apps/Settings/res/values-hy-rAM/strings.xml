@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Հպեք` մատնահետքը կարգավորելու համար</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint-ը ձեր մատնահետքի միջոցով հանում է հեռախոսը քնի ռեժիմից և ապակողպում այն, հաստատում է գնումները և մուտք գործում հավելվածներ:
+
+Ուշադիր եղեք մատնահետքեր ավելացնելիս, քանի որ այս գործողությունները հնարավոր է կատարել ավելացրած ցանկացած մատնահետքի միջոցով:
+
+Նշում. ապակողպման հուսալի նախշը կամ PIN կոդը կարող է մատնահետքից ավելի ապահով լինել: "<annotation link="url">Իմանալ ավելին</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint-ը թույլ է տալիս օգտագործել ձեր մատնահետքը՝ գնումները թույլատրելու և հավելվածներ մուտք գործելու համար:
+
+Ուշադիր եղեք մատնահետքեր ավելացնելիս, քանի որ այս գործողությունները հնարավոր է կատարել ավելացրած ցանկացած մատնահետքի միջոցով:
+
+Նշում. այս սարքն ապակողպելու համար չեք կարող օգտագործել ձեր մատնահետքը: Լրացուցիչ տեղեկություններ ստանալու համար դիմեք ձեր կազմակերպության ադմինիստրատորին:"</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint-ը ձեր մատնահետքի միջոցով հանում է հեռախոսը քնի ռեժիմից և ապակողպում այն, հաստատում է գնումները և մուտք գործում հավելվածներ:
+
+Ուշադիր եղեք մատնահետքեր ավելացնելիս, քանի որ այս գործողությունները հնարավոր է կատարել ավելացրած ցանկացած մատնահետքի միջոցով:
+
+Նշում. ապակողպման հուսալի նախշը կամ PIN կոդը կարող է մատնահետքից ավելի ապահով լինել:"</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Հուշում. այն գտնվում է ձեր հեռախոսի հետևի մասում:</string>
+  <string name="setup_fingerprint_enroll_finish_message">Հեռախոսը քնի ռեժիմից հանելու և ապակողպելու համար պարզապես հպեք Pixel Imprint-ի սենսորին:</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Բացի հեռախոսը ապակողպելուց՝ Pixel Imprint-ը կարող եք նաև օգտագործել գնումները հաստատելու և հավելվածներ մուտք գործելու համար: <annotation id="url">Իմանալ ավելին</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Օգտագործել Pixel Imprint-ը</string>
+  <string name="lock_settings_picker_fingerprint_message">Ընտրեք էկրանի կողպման պահուստային եղանակ՝ Pixel Imprint-ի հետ օգտագործելու համար</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + նախշ</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN կոդ</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + գաղտնաբառ</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Շարունակել առանց Pixel Imprint-ի</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint-ը ձեզ թույլ է տալիս ապակողպել հեռախոսը մատնահետքի օգնությամբ: Անվտանգության նկատառումներից ելնելով այս ընտրանքը պահանջում է կարգավորել էկրանի կողպման պահուստային եղանակ:</string>
+  <string name="automatic_storage_manager_text">Հեռացնում է պահուստավորված լուսանկարները և տեսանյութերը, երբ հիշողությունը համարյա լիքն է: Սակայն դրանք պահպանվում են Google Լուսանկարներում:</string>
+  <string name="automatic_storage_manager_days_title">Պահուստավորված լուսանկարների և տեսանյութերի հեռացում</string>
+  <string name="automatic_storage_manager_preference_title">Smart Storage</string>
+  <string name="gesture_preference_title">Ժեստեր</string>
+  <string name="double_twist_for_camera_mode_summary">Google Տեսախցիկում սելֆի ռեժիմին անցնելու և այն անջատելու համար գործարկեք հավելվածը և կրկնակի պտտեք</string>
+  <string name="automatic_storage_manager_activation_warning">Միացած լինելու դեպքում դուք կկարողանաք դիտել լուսանկարները և տեսանյութերը պահուստավորման համար ընտրված որակով</string>
+</resources>

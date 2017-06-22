@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">လက်ဗွေရာ စနစ်ထည့်သွင်းသတ်မှတ်ရန် တို့ပါ</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint သည် သင့်ဖုန်းကိုနှိုးရန်နှင့် လော့ခ်ဖွင့်ရန်၊ ဝယ်ယူမှုများကို အတည်ပြုရန် သို့မဟုတ် အက်ပ်များသို့ လက်မှတ်ထိုးဝင်ရန် သင့်လက်ဗွေကို အသုံးပြုပါသည်။
+
+သင်သည် မည်သူ၏လက်ဗွေများအား ထည့်သွင်းမည်ကို သတိပြုပါ။ တစ်ခုထည့်လိုက်သည်နှင့် ဤအရာများအားလုံးကို လုပ်ဆောင်နိုင်မည် ဖြစ်သည်။
+
+မှတ်ချက် − သင့်လက်ဗွေသည် ခိုင်မာသည့် ပုံစံ သို့မဟုတ် ပင်နံပါတ် တစ်ခုထက် လုံခြုံမှုအားနည်းနိုင်ပါသည်။ "<annotation link="url">ပိုမိုလေ့လာရန်</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint နှင့်ဆိုလျှင် သင်သည် ဝယ်ယူမှုများကို အတည်ပြုရန် သို့မဟုတ် အက်ပ်များသို့ လက်မှတ်ထိုးဝင်ရန် သင့်လက်ဗွေကို အသုံးပြုနိုင်ပါသည်။
+
+သင်သည် မည်သူ၏ လက်ဗွေများအား ထည့်သွင်းမည်ကို သတိပြုပါ။ ထည့်ထားသော လက်ဗွေတိုင်းသည် ဤအရာတို့ကို လုပ်နိုင်ပါမည်။
+
+မှတ်ချက်- ဤစက်ပစ္စည်းကို လော့ခ်ဖွင့်ရန် သင့်လက်ဗွေကို အသုံးမပြုနိုင်ပါ။ အသေးစိတ်အချက်များအတွက် သင့်အဖွဲ့အစည်း၏ စီမံသူကို ဆက်သွယ်ပါ။"</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint သည် သင့်ဖုန်းကိုနှိုးရန်နှင့် လော့ခ်ဖွင့်ရန်၊ ဝယ်ယူမှုများကို အတည်ပြုရန် သို့မဟုတ် အက်ပ်များသို့ လက်မှတ်ထိုးဝင်ရန် သင့်လက်ဗွေကို အသုံးပြုပါသည်။
+
+သင်သည် မည်သူ၏လက်ဗွေများအား ထည့်သွင်းမည်ကို သတိပြုပါ။ တစ်ခုထည့်လိုက်သည်နှင့် ဤအရာများအားလုံးကို လုပ်ဆောင်နိုင်မည် ဖြစ်သည်။
+
+မှတ်ချက် − သင့်လက်ဗွေသည် ခိုင်မာသည့် ပုံစံ သို့မဟုတ် ပင်နံပါတ် တစ်ခုထက် လုံခြုံမှုအားနည်းနိုင်ပါသည်။"</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">အကြံဉာဏ် − ၎င်းသည် သင့်ဖုန်း၏ ကျောဘက်တွင်ရှိသည်။</string>
+  <string name="setup_fingerprint_enroll_finish_message">သင့်ဖုန်းကို နှိုးရန်နှင့် လော့ခ်ဖြုတ်ရန် Pixel Imprint အာရုံခံစနစ်ကိုသာ ထိလိုက်ပါ။</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">သင့်ဖုန်းကို လော့ခ်ဖွင့်ခြင်းအပြင် ဝယ်ယူမှုများနှင့် အက်ပ်အသုံးပြုမှုကို အတည်ပြုရန်အတွက် Pixel Imprint ကို အသုံးပြုနိုင်ပါသည်။ <annotation id="url">ပိုမိုလေ့လာရန်</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Pixel Imprint ကို သုံးပါ</string>
+  <string name="lock_settings_picker_fingerprint_message">Pixel Imprint နှင့် တွဲသုံးရန် မျက်နှာပြင်လော့ခ်ချစနစ် မိတ္တူတစ်ခုကို ရွေးပါ</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">"Pixel Imprint  + ပုံစံ"</string>
+  <string name="fingerprint_unlock_set_unlock_pin">"Pixel Imprint  + ပင်နံပါတ်"</string>
+  <string name="fingerprint_unlock_set_unlock_password">"Pixel Imprint  + စကားဝှက်"</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint မလုပ်ဘဲ ရှေ့ဆက်ရန်</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint စနစ်ဖြင့် သင့်လက်ဗွေကိုသုံးပြီး သင့်ဖုန်းကို လော့ခ်ဖွင့်နိုင်ပါသည်။ လုံခြုံရေးအရ ဤနည်းလမ်းက အရန်မျက်နှာပြင်လော့ခ်တစ်ခု လိုအပ်ပါသည်။</string>
+  <string name="automatic_storage_manager_text">သိုလှောင်ခန်းပြည့်ခါနီးအချိန်တွင် မိတ္တူကူးထားသည့် ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ဖယ်ရှားပါ။ ၎င်းတို့ကို Google Photos တွင်တွေ့နိုင်ပါဦးမည်။</string>
+  <string name="automatic_storage_manager_days_title">မိတ္တူကူးထားသော ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ဖယ်ရှားပါ</string>
+  <string name="automatic_storage_manager_preference_title">စမတ်သိုလှောင်ခန်း</string>
+  <string name="gesture_preference_title">ရွေ့လျားမှုများ</string>
+  <string name="double_twist_for_camera_mode_summary">Google ကင်မရာအတွင်း ဆယ်လ်ဖီမုဒ် အဝင်အထွက်ပြောင်းရန် အက်ပ်အတွင်းရောက်နေစဉ်တွင် နှစ်ချက်လှည့်ပါ</string>
+  <string name="automatic_storage_manager_activation_warning">ချိတ်ဆက်ထားလျှင် မိတ္တူပွားခြင်းအတွက် သင်ရွေးချယ်ထားသော အရည်အသွေးဖြင့် ဓာတ်ပုံများနှင့် ဗီဒီယိုများကို ကြည့်ရှုနိုင်ပါသေးသည်</string>
+</resources>
