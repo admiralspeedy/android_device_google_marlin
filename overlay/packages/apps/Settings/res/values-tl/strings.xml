@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">I-tap upang mag-set up ng fingerprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Ginagamit ng Pixel Imprint ang iyong fingerprint upang paganahin at i-unlock ang iyong telepono, pahintulutan ang mga pagbili o mag-sign in sa mga app.
+
+Huwag basta-basta magdagdag ng mga fingerprint ng ibang tao. Magagawa ng alinmang idinagdag na mga fingerprint ang mga bagay na ito.
+
+Tandaan: Maaaring mas hindi ligtas ang iyong fingerprint kaysa sa isang mahirap hulaang pattern o PIN. "<annotation link="url">Matuto nang higit pa</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Sa Pixel Imprint, magagamit mo ang iyong fingerprint upang pahintulutan ang mga pagbili at pag-sign in sa mga app.
+
+Mag-ingat sa pagdaragdag ng mga fingerprint. Magagawa ng idaragdag na fingerprint ng sinuman ang mga bagay na ito.
+
+Tandaan: Hindi mo magagamit ang iyong fingerprint upang ma-unlock ang device na ito. Para sa higit pang impormasyon, makipag-ugnayan sa admin ng iyong organisasyon."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Ginagamit ng Pixel Imprint ang iyong fingerprint upang paganahin at i-unlock ang iyong telepono, pahintulutan ang mga pagbili o mag-sign in sa mga app.
+
+Huwag basta-basta magdagdag ng mga fingerprint ng ibang tao. Magagawa ng alinmang idinagdag na mga fingerprint ang mga bagay na ito.
+
+Tandaan: Maaaring mas hindi ligtas ang iyong fingerprint kaysa sa isang mahirap hulaang pattern o PIN."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Pahiwatig: Nasa likod ito ng iyong telepono.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Pindutin lang ang sensor ng Pixel Imprint upang paganahin at i-unlock ang iyong telepono.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Bilang karagdagan sa pag-a-unlock ng iyong telepono, maaari mo ring gamitin ang Pixel Imprint upang pahintulutan ang mga pagbili at pag-access ng app. <annotation id="url">Matuto nang higit pa</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Gamitin ang Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Pumili ng backup na lock ng screen na gagamitin sa Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Pattern</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Password</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Magpatuloy nang walang Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Gamit ang Pixel Imprint, maa-unlock mo ang telepono mo gamit ang iyong fingerprint. Para sa seguridad, nangangailangan ang opsyong ito ng backup na lock ng screen.</string>
+  <string name="automatic_storage_manager_text">Kapag halos puno na ang storage, alisin ang mga naka-back up na larawan at video. Makikita mo pa rin ang mga ito sa Google Photos.</string>
+  <string name="automatic_storage_manager_days_title">Alisin ang mga naka-back up na larawan at video</string>
+  <string name="automatic_storage_manager_preference_title">Smart na Storage</string>
+  <string name="gesture_preference_title">Mga paggalaw</string>
+  <string name="double_twist_for_camera_mode_summary">Upang magpabalik-balik sa selfie mode sa Google Camera, mag-double twist kapag nasa app ka</string>
+  <string name="automatic_storage_manager_activation_warning">Kapag nakakonekta ka, maa-access mo pa rin ang mga larawan at video sa kalidad na pinili mo para sa pag-backup</string>
+</resources>

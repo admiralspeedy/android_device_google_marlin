@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">"Tocca per configurare l'impronta digitale"</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint ti consente di utilizzare la tua impronta digitale per riattivare e sbloccare il telefono, autorizzare acquisti o accedere alle app desiderate.
+
+Scegli con attenzione chi aggiungere: le operazioni sopra elencate possono essere svolte con qualsiasi impronta digitale aggiunta.
+
+Nota. La tua impronta digitale potrebbe essere meno sicura di una sequenza o un PIN complesso. "<annotation link="url">Ulteriori informazioni</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Con Pixel Imprint puoi utilizzare la tua impronta digitale per autorizzare gli acquisti o accedere alle app.
+
+Scegli con attenzione chi aggiungere: le operazioni sopra elencate possono essere svolte con qualsiasi impronta digitale aggiunta.
+
+Nota. Non puoi utilizzare la tua impronta per sbloccare il dispositivo. Per ulteriori informazioni, contatta l'amministratore dell'organizzazione."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint ti consente di utilizzare la tua impronta digitale per riattivare e sbloccare il telefono, autorizzare acquisti o accedere alle app desiderate.
+
+Scegli con attenzione chi aggiungere: le operazioni sopra elencate possono essere svolte con qualsiasi impronta digitale aggiunta.
+
+Nota. La tua impronta digitale potrebbe essere meno sicura di una sequenza o un PIN complesso."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Suggerimento. Si trova sulla parte posteriore del telefono.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Tocca il sensore Pixel Imprint per riattivare e sbloccare il telefono.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Oltre a sbloccare il telefono, puoi anche utilizzare Pixel Imprint per autorizzare acquisti e accessi alle app. <annotation id="url">Ulteriori informazioni</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Utilizza Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Scegli un blocco schermo alternativo da utilizzare con Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + sequenza</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + password</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Continua senza Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Con Pixel Imprint puoi sbloccare il telefono tramite la tua impronta digitale. Per motivi di sicurezza questa opzione richiede un blocco schermo alternativo.</string>
+  <string name="automatic_storage_manager_text">Quando la memoria è quasi piena, rimuovi le foto e i video di cui hai effettuato il backup ma che saranno ancora disponibili in Google Foto.</string>
+  <string name="automatic_storage_manager_days_title">Rimuovi foto e video</string>
+  <string name="automatic_storage_manager_preference_title">Archiviazione intelligente</string>
+  <string name="gesture_preference_title">Movimenti</string>
+  <string name="double_twist_for_camera_mode_summary">"Per attivare e disattivare la modalità selfie in Google Fotocamera, apri l'app e ruota due volte il polso"</string>
+  <string name="automatic_storage_manager_activation_warning">Quando sei connesso, puoi ancora accedere a foto e video con la qualità selezionata per il backup</string>
+</resources>

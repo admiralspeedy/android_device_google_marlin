@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Tocar para configurar a impressão digital</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"O Pixel Imprint utiliza a sua impressão digital para ativar e desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações.
+
+Quaisquer impressões digitais adicionadas ao telemóvel podem executar estas ações, pelo que deve ter cuidado com quem adiciona.
+
+Nota: a impressão digital pode ser menos segura do que um padrão ou um PIN fortes. "<annotation link="url">Saiba mais</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Com o Pixel Imprint, pode utilizar a sua impressão digital para autorizar compras ou iniciar sessão em aplicações.
+
+Quaisquer impressões digitais adicionadas podem executar estas ações, pelo que deve ter cuidado com quem adiciona.
+
+Nota: não é possível utilizar a sua impressão digital para desbloquear este dispositivo. Para mais informações, contacte o administrador da sua entidade."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"O Pixel Imprint utiliza a sua impressão digital para ativar e desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações.
+
+Quaisquer impressões digitais adicionadas ao telemóvel podem executar estas ações, pelo que deve ter cuidado com quem adiciona.
+
+Nota: a impressão digital pode ser menos segura do que um padrão ou um PIN fortes."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Sugestão: está na parte traseira do telemóvel.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Basta tocar no sensor do Pixel Imprint para ativar e desbloquear o telemóvel.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Para além de desbloquear o telemóvel, pode utilizar o Pixel Imprint para autorizar compras e o acesso a aplicações. <annotation id="url">Saiba mais</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Utilizar o Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Escolha um bloqueio de ecrã de segurança para utilizar com o Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + padrão</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + palavra-passe</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Continuar sem o Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Com o Pixel Imprint, pode desbloquear o seu telemóvel através da sua impressão digital. Por motivos de segurança, esta opção requer um bloqueio de ecrã de segurança.</string>
+  <string name="automatic_storage_manager_text">Quando o espaço para armazenamento estiver quase cheio, remova as fotos e os vídeos dos quais fez uma cópia de segurança. Estes permanecem disponíveis no Google Fotos.</string>
+  <string name="automatic_storage_manager_days_title">Remover fotos e vídeos com cópia de segurança</string>
+  <string name="automatic_storage_manager_preference_title">Armazenamento inteligente</string>
+  <string name="gesture_preference_title">Movimentos</string>
+  <string name="double_twist_for_camera_mode_summary">Para entrar e sair do modo selfie na Câmara Google, rode duas vezes quando estiver na aplicação</string>
+  <string name="automatic_storage_manager_activation_warning">Quando estiver ligado, pode continuar a aceder às fotos e aos vídeos com a qualidade selecionada para a cópia de segurança</string>
+</resources>

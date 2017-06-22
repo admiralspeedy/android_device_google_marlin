@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Нажмите, чтобы добавить отпечаток пальца</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint позволяет разблокировать телефон, подтверждать покупки и входить в приложения с помощью отпечатка пальца.
+
+Сохраните на устройстве отпечатки пользователей, которым вы доверяете, и они тоже смогут это делать.
+
+Помните, что распознавание отпечатков – менее надежный способ защиты, чем графический ключ или PIN-код. "<annotation link="url">Подробнее…</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint позволяет подтверждать покупки и входить в приложения с помощью отпечатка пальца.
+
+Сохраните на устройстве отпечатки пользователей, которым доверяете, и они тоже смогут это делать.
+
+Помните, что сканер нельзя использовать для разблокировки этого устройства. За подробной информацией обратитесь к системному администратору."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint позволяет разблокировать телефон, подтверждать покупки и входить в приложения с помощью отпечатка пальца.
+
+Сохраните на устройстве отпечатки пользователей, которым вы доверяете, и они тоже смогут это делать.
+
+Помните, что распознавание отпечатков – менее надежный способ защиты, чем графический ключ или PIN-код."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Подсказка: датчик находится на задней панели устройства.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Чтобы разблокировать телефон, коснитесь датчика Pixel Imprint.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">С помощью Pixel Imprint можно не только разблокировать экран, но и подтверждать покупки, а также предоставлять доступ к приложениям. <annotation id="url">Подробнее…</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Использование Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Выберите способ блокировки экрана в дополнение к Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Графический ключ</string>
+  <string name="fingerprint_unlock_set_unlock_pin">PIN-код</string>
+  <string name="fingerprint_unlock_set_unlock_password">Пароль</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Продолжить без Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Благодаря Pixel Imprint вы можете разблокировать телефон с помощью отпечатка пальца. В целях безопасности вам понадобится установить запасной способ разблокировки.</string>
+  <string name="automatic_storage_manager_text">Удалять сохраненные в Google фото и видео, когда в хранилище не остается места. Эти файлы по-прежнему будут доступны в Google Фото.</string>
+  <string name="automatic_storage_manager_days_title">Удалять фото и видео, сохраненные в Google</string>
+  <string name="automatic_storage_manager_preference_title">Умное хранилище</string>
+  <string name="gesture_preference_title">Движения</string>
+  <string name="double_twist_for_camera_mode_summary">Переключаться между основной и фронтальной камерами движением запястья</string>
+  <string name="automatic_storage_manager_activation_warning">При подключении к Интернету вы сможете получить доступ к фото и видео в том качестве, которое вы выбрали для загрузки.</string>
+</resources>

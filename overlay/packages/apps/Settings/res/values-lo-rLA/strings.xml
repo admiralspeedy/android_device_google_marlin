@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">ແຕະເພື່ອຕັ້ງຄ່າລາຍນິ້ວມື</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint ໃຊ້ລາຍນິ້ວມືຂອງທ່ານເພື່ອເປີດໜ້າຈໍ ແລະ ປົດລັອກໂທລະສັບ, ອະນຸຍາດການສັ່ງຊື້ ຫຼື ເຂົ້າສູ່ລະບົບຫາແອັບຕ່າງໆ.
+
+ໃຫ້ລະວັງການເພີ່ມລາຍນິ້ວມືໃສ່ໃນລະບົບ. ລາຍນິ້ວມືທີ່ຖືກເພີ່ມໃສ່ຈະສາມາດເຮັດສິ່ງທີ່ຍົກມາດັ່ງກ່າວໄດ້.
+
+ໝາຍເຫດ: ນິ້ວມືຂອງທ່ານອາດບໍ່ປອດໄພເທົ່າຮູບແບບປົດລັອກທີ່ຊັບຊ້ອນ ຫຼື ລະຫັດ PIN. "<annotation link="url">ສຶກສາເພີ່ມເຕີມ</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"ດ້ວຍ Pixel Imprint, ທ່ານສາມາດໃຊ້ລາຍນິ້ວຂອງທ່ານເພື່ອອະນຸມັດການສັ່ງຊື້ ຫຼື ເຂົ້າສູ່ລະບົບແອັບ.
+
+ກະລຸນາລະມັດລະວັງການເພີ່ມລາຍນິ້ວມື. ເຖິງແມ່ນວ່າຈະເພີ່ມລາຍນິ້ວມືດຽວແຕ່ກໍຈະສາມາດເຮັດໄດ້ທຸກຢ່າງທີ່ວ່າມານີ້.
+
+ໝາຍເຫດ: ທ່ານບໍ່ສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນການປົດລັອກອຸປະກອນນີ້ໄດ້. ສຳລັບຂໍ້ມູນເພີ່ມເຕີມ, ກະລຸນາຕິດຕໍ່ຜູ້ເບິ່ງແຍງລະບົບອົງກອນຂອງທ່ານ."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint ໃຊ້ລາຍນິ້ວມືຂອງທ່ານເພື່ອເປີດໜ້າຈໍ ຫຼື ປົດລັອກໂທລະສັບຂອງທ່ານ, ອະນຸມັດການສັ່ງຊື້ ຫຼື ເຂົ້າສູ່ລະບົບຫາແອັບຕ່າງໆ.
+
+ກະລຸນາລະມັດລະວັງການເພີ່ມລາຍນິ້ວມືເນື່ອງຈາກລາຍນິ້ວມືທີ່ເພີ່ມເຂົ້າມາຈະສາມາດໃຊ້ເພື່ອເຮັດສິ່ງທີ່ວ່າມານັ້ນໄດ້.
+
+ໝາຍເຫດ: ລາຍນິ້ວມືອາດມີຄວາມປອດໄພໜ້ອຍກວ່າຮູບແບບປົດລັອກ ຫຼື ລະຫັດ PIN."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">ຄຳໃບ້: ມັນຢູ່ທາງຫຼັງໂທລະສັບຂອງທ່ານ.</string>
+  <string name="setup_fingerprint_enroll_finish_message">ພຽງແຕ່ແຕະໃສ່ທີ່ເຊັນເຊີລາຍນິ້ວມືຂອງ Pixel ເພື່ອເປີດໜ້າຈໍ ແລະ ປົດລັອກໂທລະສັບຂອງທ່ານ.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">ນອກຈາກການປົດລັອກໂທລະສັບຂອງທ່ານແລ້ວ, ທ່ານຍັງສາມາດໃຊ້ Pixel Imprint ເພື່ອອະນຸຍາດການຊື້ ແລະການເຂົ້າຫາແອັບໄດ້ນຳອີກ. <annotation id="url">ສຶກສາເພີ່ມເຕີມ</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">ໃຊ້ Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">ເລືອກການລັອກໜ້າຈໍສຳຮອງເພື່ອໃຊ້ກັບ Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + ຮູບແບບປົດລັອກ</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + ລະຫັດ PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + ລະຫັດຜ່ານ</string>
+  <string name="fingerprint_unlock_skip_fingerprint">ສືບຕໍ່ໂດຍບໍ່ມີ Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">ດ້ວຍ Pixel Imprint, ທ່ານສາມາດປົດລັອກໂທລະສັບຂອງທ່ານໂດຍໃຊ້ລາຍນິ້ວມືຂອງທ່ານໄດ້. ເພື່ອຄວາມປອດໄພ, ຕົວເລືອກນີ້ຈຳເປັນຕ້ອງມີການລັອກໜ້າຈໍສຳຮອງໄວ້.</string>
+  <string name="automatic_storage_manager_text">ເມື່ອພື້ນທີ່ຈັດເກັບຂໍ້ມູນໃກ້ຈະເຕັມແລ້ວ, ໃຫ້ລຶບຮູບພາບ ແລະ ວິດີໂອທີ່ສຳຮອງຂໍ້ມູນແລ້ວອອກ. ທ່ານຍັງຄົງສາມາດຊອກຫາພວກມັນໄດ້ຈາກ Google ຮູບພາບໄດ້ຄືເກົ່າ.</string>
+  <string name="automatic_storage_manager_days_title">ລຶບຮູບພາບ ແລະ ວິດີໂອທີ່ສຳຮອງຂໍ້ມູນແລ້ວອອກ</string>
+  <string name="automatic_storage_manager_preference_title">ບ່ອນຈັດເກັບຂໍ້ມູນແບບສະມາດ</string>
+  <string name="gesture_preference_title">ທ່າທາງ</string>
+  <string name="double_twist_for_camera_mode_summary">ເພື່ອສະຫຼັບເຂົ້າ ແລະ ອອກຈາກໂໝດເຊວຟີໃນກ້ອງຖ່າຍຮູບ Google, ໃຫ້ບິດມືຖືສອງເທື່ອເມື່ອທ່ານຢູ່ໃນແອັບກ້ອງ</string>
+  <string name="automatic_storage_manager_activation_warning">ເມື່ອທ່ານເຊື່ອມຕໍ່ແລ້ວ, ທ່ານຈະຍັງສາມາດເຂົ້າເຖິງຮູບພາບ ແລະ ວິດີໂອທີ່ລະດັບຄຸນນະພາບທີ່ທ່ານເລືອກໃຫ້ສຳລັບການສຳຮອງຂໍ້ມູນໄດ້</string>
+</resources>

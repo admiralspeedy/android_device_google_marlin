@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Ketuk untuk menyiapkan sidik jari</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint menggunakan sidik jari untuk membangunkan dan membuka kunci ponsel, mengotorisasi pembelian, atau masuk ke aplikasi.
+
+Berhati-hatilah dengan sidik jari yang ditambahkan. Sidik jari yang ditambahkan dapat melakukan hal-hal tersebut.
+
+Catatan: Sidik jari mungkin kurang aman dibanding pola atau PIN yang rumit. "<annotation link="url">Pelajari lebih lanjut</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Dengan Pixel Imprint, Anda dapat menggunakan sidik jari untuk mengotorisasi pembelian atau masuk ke aplikasi.
+
+Berhati-hatilah dengan sidik jari yang ditambahkan. Sidik jari yang ditambahkan dapat melakukan semua ini.
+
+Catatan: Anda tidak dapat menggunakan sidik jari untuk membuka kunci perangkat. Untuk informasi selengkapnya, hubungi admin organisasi."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint menggunakan sidik jari untuk membangunkan dan membuka kunci ponsel, mengotorisasi pembelian, atau masuk ke aplikasi.
+
+Berhati-hatilah dengan sidik jari yang ditambahkan. Sidik jari yang ditambahkan dapat melakukan hal-hal tersebut.
+
+Catatan: Sidik jari mungkin kurang aman dibanding pola atau PIN yang rumit"</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Petunjuk: Sensor ada di bagian belakang ponsel.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Cukup sentuh sensor Pixel Imprint untuk membangunkan dan membuka kunci ponsel.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Selain membuka kunci ponsel, Anda juga dapat menggunakan Pixel Imprint untuk mengotorisasi pembelian dan akses aplikasi. <annotation id="url">Pelajari lebih lanjut</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Gunakan Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Pilih kunci layar cadangan untuk digunakan dengan Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Pola</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Sandi</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Lanjutkan tanpa Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Dengan Pixel Imprint, Anda dapat membuka kunci ponsel menggunakan sidik jari. Demi keamanan, opsi ini memerlukan kunci layar cadangan.</string>
+  <string name="automatic_storage_manager_text">Jika ruang penyimpanan hampir penuh, hapus foto dan video yang dicadangkan. Anda tetap dapat menemukannya di Google Foto.</string>
+  <string name="automatic_storage_manager_days_title">Hapus foto &amp; video yang dicadangkan</string>
+  <string name="automatic_storage_manager_preference_title">Penyimpanan Cerdas</string>
+  <string name="gesture_preference_title">Memindahkan</string>
+  <string name="double_twist_for_camera_mode_summary">Untuk masuk atau keluar mode selfie di Google Kamera, putar dua kali saat berada dalam aplikasi</string>
+  <string name="automatic_storage_manager_activation_warning">Saat terhubung, Anda tetap dapat mengakses foto dan video dengan kualitas yang dipilih untuk pencadangan</string>
+</resources>

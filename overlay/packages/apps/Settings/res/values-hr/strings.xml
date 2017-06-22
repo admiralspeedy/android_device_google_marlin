@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Dodirnite da biste postavili otisak prsta</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint upotrebljava vaš otisak prsta za aktiviranje i otključavanje telefona, autoriziranje kupnji ili prijavu u aplikacije.
+
+To će moći činiti svi otisci prstiju koje dodate, pa pazite čije otiske dodajete.
+
+Napomena: otisak prsta nije toliko siguran kao snažan uzorak ili PIN. "<annotation link="url">Saznajte više</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint omogućuje vam da otiskom prsta autorizirate kupnje ili se prijavljujete u aplikacije.
+
+Pazite čije otiske dodajete. Svaki otisak koji dodate može se upotrijebiti za sve te radnje.
+
+Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija možete dobiti od administratora u svojoj organizaciji."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint upotrebljava vaš otisak prsta za aktiviranje i otključavanje telefona, autoriziranje kupnji ili prijavu u aplikacije.
+
+To će moći činiti svi otisci prstiju koje dodate, pa pazite čije otiske dodajete.
+
+Napomena: otisak prsta nije toliko siguran kao snažan uzorak ili PIN."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Napomena: nalazi se na stražnjoj strani telefona.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Jednostavno dodirnite senzor Pixel Imprinta za aktiviranje i otključavanje telefona.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Osim za otključavanje telefona, Pixel Imprint možete upotrebljavati i za autorizaciju kupnji i pristup aplikacijama. <annotation id="url">Saznajte više</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Upotrebljavajte Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Odaberite pričuvno zaključavanje zaslona koje ćete koristiti uz Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint i uzorak</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint i PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint i zaporka</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Nastavi bez Pixel Imprinta</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint omogućuje vam da otključate telefon otiskom prsta. Iz sigurnosnih razloga ta opcija zahtijeva dodatno zaključavanje zaslona.</string>
+  <string name="automatic_storage_manager_text">Kada je pohrana gotovo puna, uklanjaju se sigurnosne kopije fotografija i videozapisa. I dalje ih možete pronaći na Google fotografijama.</string>
+  <string name="automatic_storage_manager_days_title">Uklanjanje sigurnosnih kopija fotografija i videozapisa</string>
+  <string name="automatic_storage_manager_preference_title">Pametna pohrana</string>
+  <string name="gesture_preference_title">Pokreti</string>
+  <string name="double_twist_for_camera_mode_summary">Za uključivanje i isključivanje načina za snimanje selfieja u Google fotoaparatu dvaput obrnite fotoaparat dok ste u aplikaciji</string>
+  <string name="automatic_storage_manager_activation_warning">Kada ste povezani, i dalje možete pristupati fotografijama i videozapisima u kvaliteti koju ste odabrali za sigurnosne kopije</string>
+</resources>

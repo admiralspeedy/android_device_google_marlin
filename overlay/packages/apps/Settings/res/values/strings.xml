@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Tap to set up fingerprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint uses your fingerprint to wake and unlock your phone, authorize purchases, or sign in to apps.
+
+Be careful whose fingerprints you add. Any fingerprints added will be able to do these things.
+
+Note: Your fingerprint may be less secure than a strong pattern or PIN. "<annotation link="url">Learn more</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"With Pixel Imprint, you can use your fingerprint to authorize purchases or sign in to apps.
+
+Be careful whose fingerprints you add. Any fingerprints added will be able to do these things.
+
+Note: You can’t use your fingerprint to unlock this device. For more information, contact your organization’s admin."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint uses your fingerprint to wake and unlock your phone, authorize purchases, or sign in to apps.
+
+Be careful whose fingerprints you add. Any fingerprints added will be able to do these things.
+
+Note: Your fingerprint may be less secure than a strong pattern or PIN."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Hint: It’s on the back of your phone.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Just touch the Pixel Imprint sensor to wake and unlock your phone.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">In addition to unlocking your phone, you can also use Pixel Imprint to authorize purchases and app access. <annotation id="url">Learn more</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Use Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Choose a backup screen lock to use with Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Pattern</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Password</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Continue without Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">With Pixel Imprint, you can unlock your phone using your fingerprint. For security, this option requires a backup screen lock.</string>
+  <string name="automatic_storage_manager_text">When storage is almost full, remove backed up photos and videos. You can still find them in Google Photos.</string>
+  <string name="automatic_storage_manager_days_title">Remove backed up photos &amp; videos</string>
+  <string name="automatic_storage_manager_preference_title">Smart Storage</string>
+  <string name="gesture_preference_title">Moves</string>
+  <string name="double_twist_for_camera_mode_summary">To switch in and out of selfie mode in Google Camera, double-twist when you’re in the app</string>
+  <string name="automatic_storage_manager_activation_warning">"When you're connected, you can still access photos and videos at the quality you selected for backup"</string>
+</resources>

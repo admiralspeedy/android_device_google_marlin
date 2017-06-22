@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Kliknij, by zarejestrować odcisk palca</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Dzięki Pixel Imprint możesz używać odcisku palca do wybudzania i odblokowywania telefonu, autoryzowania zakupów i logowania się w aplikacjach.
+
+Z rozwagą dodawaj odciski palców innych osób, bo każda z nich będzie mogła wykonywać wszystkie te czynności.
+
+Uwaga: odcisk palca może być mniej bezpieczny niż trudny wzór czy kod PIN. "<annotation link="url">Więcej informacji</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint pozwala autoryzować zakupy lub logować się w aplikacjach za pomocą odcisku palca.
+
+Z rozwagą dodawaj odciski palców innych osób – każda dodana osoba będzie mogła wykonywać wszystkie powyższe działania.
+
+Uwaga: nie możesz odblokowywać tego urządzenia odciskiem palca. Więcej informacji uzyskasz u administratora swojej organizacji."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Dzięki Pixel Imprint możesz używać odcisku palca do wybudzania i odblokowywania telefonu, autoryzowania zakupów i logowania się w aplikacjach.
+
+Z rozwagą dodawaj odciski palców innych osób, bo każda z nich będzie mogła wykonywać wszystkie te czynności.
+
+Uwaga: odcisk palca może być mniej bezpieczny niż trudny wzór czy kod PIN."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Wskazówka: czytnik jest z tyłu telefonu.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Aby wybudzić lub odblokować telefon, dotknij czytnika Pixel Imprint.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Za pomocą czytnika Pixel Imprint możesz odblokować telefon, a także autoryzować zakupy i zalogować się w aplikacjach. <annotation id="url">Więcej informacji</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Użyj czytnika Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Wybierz zapasową blokadę ekranu używaną z opcją Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + wzór</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + kod PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + hasło</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Kontynuuj bez Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint pozwala odblokować telefon odciskiem palca. Ze względów bezpieczeństwa opcja wymaga dodatkowej blokady ekranu.</string>
+  <string name="automatic_storage_manager_text">Gdy skończy się miejsce w pamięci, usuń zdjęcia i filmy, które mają swoje kopie zapasowe. Nadal będziesz je widzieć w Zdjęciach Google.</string>
+  <string name="automatic_storage_manager_days_title">Usuwaj zdjęcia i filmy, które mają kopię zapasową</string>
+  <string name="automatic_storage_manager_preference_title">Inteligentna pamięć</string>
+  <string name="gesture_preference_title">Ruchy</string>
+  <string name="double_twist_for_camera_mode_summary">Aby przełączać tryb selfie w Aparacie Google, przekręć dwukrotnie urządzenie, gdy aplikacja jest aktywna</string>
+  <string name="automatic_storage_manager_activation_warning">Gdy się połączysz, dalej będziesz mieć dostęp do zdjęć i filmów w jakości wybranej na potrzeby kopii zapasowej</string>
+</resources>

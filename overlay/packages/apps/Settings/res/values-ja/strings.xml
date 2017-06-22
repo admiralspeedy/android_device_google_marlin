@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">指紋をセットアップするにはタップします</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint では、指紋を使って、スマートフォンの復帰とロック解除、購入の許可、アプリへのログインを行います。
+
+こうした操作は、登録したどの指紋でも行えるため、誰の指紋を登録するかについては十分にご注意ください。
+
+注: 指紋は複雑なパターンや PIN よりも安全面で劣る可能性があります。"<annotation link="url">詳細</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint では、指紋を使って購入の承認やアプリへのログインを行えます。
+
+こうした操作は、登録したどの指紋でも行えるため、誰の指紋を登録するかについては十分にご注意ください。
+
+注: 指紋を使ってこの端末のロックを解除することはできません。詳しくは、組織の管理者にお問い合わせください。"</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint では、指紋を使って、スマートフォンの復帰とロック解除、購入の許可、アプリへのログインを行います。
+
+こうした操作は、登録したどの指紋でも行えるため、誰の指紋を登録するかについては十分にご注意ください。
+
+注: 指紋は複雑なパターンや PIN よりも安全面で劣る可能性があります。"</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">ヒント: スマートフォンの背面にあります。</string>
+  <string name="setup_fingerprint_enroll_finish_message">Pixel Imprint センサーに触れるだけでスマートフォンを復帰させてロックを解除できます。</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Pixel Imprint を使用すると、スマートフォンのロックを解除できるだけでなく、購入やアプリのアクセスを許可することもできます。<annotation id="url">詳細</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Pixel Imprint の使用</string>
+  <string name="lock_settings_picker_fingerprint_message">Pixel Imprint で使用する予備の画面ロックを選択してください</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + パターン</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + パスワード</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint を設定せずに続行</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint では、指紋を使ってスマートフォンのロックを解除できます。セキュリティ上の理由により、Pixel Imprint を使用する際は予備の画面ロックを選択する必要があります。</string>
+  <string name="automatic_storage_manager_text">ストレージの空き容量が少なくなったときに、バックアップ済みの写真や動画を削除します。削除した後でも引き続き Google フォトで確認できます。</string>
+  <string name="automatic_storage_manager_days_title">バックアップ済みの写真と動画の削除</string>
+  <string name="automatic_storage_manager_preference_title">スマート ストレージ</string>
+  <string name="gesture_preference_title">動作</string>
+  <string name="double_twist_for_camera_mode_summary">Google カメラで前面カメラと背面カメラを切り替えるには、アプリを起動した状態で 2 回ひねる動作を行います。</string>
+  <string name="automatic_storage_manager_activation_warning">接続すれば、バックアップに選択した画質で引き続き写真や動画をお楽しみいただけます</string>
+</resources>

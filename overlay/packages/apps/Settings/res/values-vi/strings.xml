@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Nhấn để thiết lập vân tay</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint sử dụng dấu vân tay của bạn để đánh thức và mở khóa điện thoại của bạn, ủy quyền mua hàng hoặc đăng nhập vào các ứng dụng.
+
+Hãy cẩn trọng về việc bạn thêm dấu vân tay của ai. Mọi dấu vân tay được thêm sẽ có thể thực hiện những việc này.
+
+Lưu ý: Dấu vân tay của bạn sẽ kém an toàn hơn hình mở khóa hoặc mã PIN mạnh. "<annotation link="url">Tìm hiểu thêm</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Với Pixel Imprint, bạn có thể sử dụng vân tay của mình để ủy quyền mua hàng hoặc đăng nhập vào ứng dụng.
+
+Hãy cẩn trọng với vân tay mà bạn thêm. Mọi vân tay được thêm đều có thể làm những việc này.
+
+Lưu ý: Bạn không thể sử dụng vân tay của mình để mở khóa thiết bị này. Để biết thêm thông tin, hãy liên hệ với quản trị viên của tổ chức."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint sử dụng dấu vân tay của bạn để đánh thức và mở khóa điện thoại của bạn, ủy quyền mua hàng hoặc đăng nhập vào các ứng dụng.
+
+Hãy cẩn trọng về việc bạn thêm dấu vân tay của ai. Mọi dấu vân tay được thêm sẽ có thể thực hiện những việc này.
+
+Lưu ý: Dấu vân tay của bạn sẽ kém an toàn hơn hình mở khóa hoặc mã PIN mạnh."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Gợi ý: Ở mặt sau của điện thoại của bạn.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Chỉ cần chạm vào cảm biến Pixel Imprint để đánh thức và mở khóa điện thoại của bạn.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Ngoài việc mở khóa điện thoại của mình, bạn cũng có thể sử dụng Pixel Imprint để ủy quyền mua hàng và truy cập ứng dụng. <annotation id="url">Tìm hiểu thêm</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Sử dụng Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Chọn một khóa màn hình dự phòng để sử dụng với Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Hình mở khóa</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + Mã PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Mật khẩu</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Tiếp tục mà không có Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Với Pixel Imprint, bạn có thể mở khóa điện thoại bằng vân tay của mình. Để đảm bảo an toàn, tùy chọn này yêu cầu một khóa màn hình dự phòng.</string>
+  <string name="automatic_storage_manager_text">Khi bộ nhớ sắp hết, hãy xóa ảnh và video đã sao lưu. Bạn vẫn có thể tìm thấy ảnh và video đó trong Google Photos.</string>
+  <string name="automatic_storage_manager_days_title">Xóa ảnh và video đã sao lưu</string>
+  <string name="automatic_storage_manager_preference_title">Bộ nhớ thông minh</string>
+  <string name="gesture_preference_title">Cử chỉ</string>
+  <string name="double_twist_for_camera_mode_summary">Để chuyển sang và thoát khỏi chế độ chụp ảnh tự sướng trong Google Máy ảnh, hãy xoay hai lần khi bạn đang trong ứng dụng</string>
+  <string name="automatic_storage_manager_activation_warning">Khi kết nối, bạn vẫn có thể truy cập vào ảnh và video ở chất lượng mình đã chọn để sao lưu</string>
+</resources>

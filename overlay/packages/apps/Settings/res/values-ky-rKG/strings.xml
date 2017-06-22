@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Манжа изин кошуу үчүн таптап коюуңуз</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint телефонуңузду ойготуп, кулпусун ачып, кандайдыр бир нерсени сатып алып жатканыңызды ырастап же колдонмолорго кирүү үчүн жөн гана манжаңызды сенсорго тийгизип коюңуз.
+
+Кимдир бирөөнүн манжа изин кошуп жатканыңызда этият болуңуз. Манжа издери кошулган адамдардын баары бул нерселерди аткара алышат.
+
+Түзмөгүңүздү манжа изи менен коргоого караганда графикалык ачкыч же PIN код менен коргоо бир кыйла коопсуз. "<annotation link="url">Көбүрөөк маалымат</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint менен манжа изиңизди кандайдыр бир нерсени сатып алып жатканыңызды ырастап же колдонмолорго кирүү үчүн пайдалана аласыз.
+
+Кимдир бирөөнүн манжа изин кошуп жатканыңызда этият болуңуз. Манжа издери кошулган адамдардын баары бул нерселерди аткара алышат.
+
+Эскертүү: Манжа изиңизди бул түзмөктүн кулпусун ачууга колдоно албайсыз. Көбүрөөк маалымат үчүн ишканаңыздын администраторуна кайрылыңыз."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint телефонуңузду ойготуп, кулпусун ачып, кандайдыр бир нерсени сатып алып жатканыңызды ырастап же колдонмолорго кирүү үчүн жөн гана манжаңызды сенсорго тийгизип коюңуз.
+
+Кимдир бирөөнүн манжа изин кошуп жатканыңызда этият болуңуз. Манжа издери кошулган адамдардын баары бул нерселерди аткара алышат.
+
+Эскертүү: Түзмөгүңүздү манжа изи менен коргоого караганда графикалык ачкыч же PIN код менен коргоо бир кыйла коопсуз."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Кеңеш: Ал телефонуңуздун аркасында.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Телефонуңузду ойготуп жана кулпусун ачуу үчүн жөн гана Pixel Imprint сенсорун басып коюңуз.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">"Телефонуңуздун кулпусун ачуудан тышкары, Pixel Imprint'ти сатып алууларга жана колдонмого кирүүгө уруксат берүү үчүн да колдоно аласыз. "<annotation id="url">Көбүрөөк маалымат</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">"Pixel Imprint'ти колдонуу"</string>
+  <string name="lock_settings_picker_fingerprint_message">Pixel Imprint менен колдонула турган экранды кулпулоо ыкмасын тандаңыз</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Графикалык ачкыч</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN код</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Сырсөз</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint жөндөөсү жок улантуу</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint менен телефонуңуздун кулпусун манжаңыздын изи менен ача аласыз. Коопсуздук максатында бул опция кулпуну ачуунун кошумча ыкмасын колдонууну талап кылат.</string>
+  <string name="automatic_storage_manager_text">Сактагычта орун калбай баратканда сүрөттөр жана видеолордун камдык көчүрмөсүн өчүрүп салыңыз. Аларды Google Фотодон көрө бересиз.</string>
+  <string name="automatic_storage_manager_days_title">Сүрөттөр жана видеолордун камдык көчүрмөсүн алып салуу</string>
+  <string name="automatic_storage_manager_preference_title">Акылдуу сактагыч</string>
+  <string name="gesture_preference_title">Кыймылдар</string>
+  <string name="double_twist_for_camera_mode_summary">Google Камерада селфи режимин күйгүзүп же өчүрүү үчүн колдонмо ачылып турганда билегиңизди айландырып коюңуз</string>
+  <string name="automatic_storage_manager_activation_warning">Туташып турганыңызда сүрөттөр менен видеолорду камдык көчүрмө үчүн тандалган сапатта ача бересиз</string>
+</resources>

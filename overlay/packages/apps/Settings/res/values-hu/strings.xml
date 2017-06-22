@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Koppintson az ujjlenyomat-olvasás beállításához</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"A Pixel Imprint az Ön ujjlenyomatát használja a telefon felébresztéséhez és feloldásához, vásárlások jóváhagyásához, illetve az alkalmazásokba való bejelentkezéshez.
+
+Ügyeljen arra, hogy kinek az ujjlenyomatát adja hozzá a telefonhoz. A hozzáadott ujjlenyomatok feljogosítják tulajdonosukat a fentebb felsoroltakra.
+
+Megjegyzés: Az ujjlenyomat kevésbé lehet biztonságos, mint egy erős minta vagy PIN-kód."<annotation link="url">További információ.</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"A Pixel Imprint használata esetén ujjlenyomatával vásárlásokat engedélyezhet, illetve bejelentkezhet alkalmazásokba.
+
+Bármely hozzáadott ujjlenyomat képes mindezek végrehajtására, ezért fontolja meg, hogy kinek az ujjlenyomatát adja hozzá.
+
+Megjegyzés: Az ujjlenyomat az eszköz feloldására nem használható. Ha további információt szeretne kapni, forduljon szervezete rendszergazdájához."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"A Pixel Imprint az Ön ujjlenyomatát használja a telefon felébresztéséhez és feloldásához, vásárlások jóváhagyásához, illetve az alkalmazásokba való bejelentkezéshez.
+
+Ügyeljen arra, hogy kinek az ujjlenyomatát adja hozzá a telefonhoz. A hozzáadott ujjlenyomatok feljogosítják tulajdonosukat a fentebb felsoroltakra.
+
+Megjegyzés: Az ujjlenyomat kevésbé lehet biztonságos, mint egy erős minta vagy PIN-kód."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Tipp: A telefon hátoldalán találja.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Érintse meg a Pixel Imprint érzékelőt a telefon felébresztéséhez és feloldásához.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">A telefon feloldása mellett a Pixel Imprinttel a vásárlásokat és az alkalmazások hozzáférését is jóváhagyhatja. <annotation id="url">További információ</annotation>.</string>
+  <string name="suggested_fingerprint_lock_settings_title">A Pixel Imprint használata</string>
+  <string name="lock_settings_picker_fingerprint_message">Válasszon másodlagos képernyőzárat a Pixel Imprint mellé</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + minta</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN-kód</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + jelszó</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Folytatás a Pixel Imprint beállítása nélkül</string>
+  <string name="fingerprint_unlock_title">A Pixel Imprint használatával telefonját az ujjlenyomatával oldhatja fel. Biztonsági okokból ezen beállítás esetében szükség van másodlagos képernyőzárra is.</string>
+  <string name="automatic_storage_manager_text">Ha a tárhely már majdnem betelt, távolítsa el azokat a fotókat és videókat, amelyekről már van biztonsági másolat. Továbbra is megtalálhatja majd őket a Google Fotók szolgáltatásban.</string>
+  <string name="automatic_storage_manager_days_title">Biztonsági másolatként már meglévő fotók és videók eltávolítása</string>
+  <string name="automatic_storage_manager_preference_title">Intelligens tárhely</string>
+  <string name="gesture_preference_title">Mozdulatok</string>
+  <string name="double_twist_for_camera_mode_summary">A szelfi mód ki- és bekapcsolásához fordítsa oda-vissza a telefont a Google Fényképezőgép alkalmazásban</string>
+  <string name="automatic_storage_manager_activation_warning">Amikor csatlakozik, továbbra is hozzáférhet a fotókhoz és videókhoz a biztonsági mentéshez beállított minőségben</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">برای راه‌اندازی اثر انگشت ضربه بزنید</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"‏Pixel Imprint برای بیدار کردن و باز کردن قفل تلفن، اجازه دادن به خریدها یا ورود به سیستم برنامه‌ها، از اثر انگشت شما استفاده می‌کند.
+
+مراقب باشید اثر انگشت چه کسی را اضافه می‌کنید. هر اثر انگشت اضافه‌شده می‌تواند همه این کارها را انجام دهد
+
+توجه: ممکن است امنیت اثر انگشت از الگو یا کد پین قوی کمتر باشد. "<annotation link="url">بیشتر بدانید</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"‏با Pixel Imprint می‌توانید از اثرانگشتتان برای اجازه دادن به خریدها یا ورود به سیستم برنامه‌ها استفاده می‌کند.
+
+مراقب باشید اثرانگشت چه کسی را اضافه می‌کنید. هر اثرانگشت اضافه‌شده می‌تواند این کارها را انجام دهد.
+
+توجه: نمی‌توانید از اثرانگشتتان برای باز کردن قفل این دستگاه استفاده کنید. برای اطلاعات بیشتر، با سرپرست سازمانتان تماس بگیرید."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"‏Pixel Imprint برای بیدار کردن و باز کردن قفل تلفن، اجازه دادن به خریدها یا ورود به سیستم برنامه‌ها، از اثر انگشت شما استفاده می‌کند.
+
+مراقب باشید اثر انگشت چه کسی را اضافه می‌کنید. هر اثر انگشت اضافه‌شده می‌تواند همه این کارها را انجام دهد
+
+توجه: ممکن است امنیت اثر انگشت از الگو یا کد پین قوی کمتر باشد."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">نکته: در پشت تلفنتان قرار دارد.</string>
+  <string name="setup_fingerprint_enroll_finish_message">‏برای بیدار کردن و باز کردن قفل تلفنتان، کافی است حسگر Pixel Imprint را لمس کنید.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">‏علاوه بر باز کردن قفل صفحه تلفنتان با Pixel Imprint، می‌توانید از آن برای اجازه دادن به خریدها و دسترسی به برنامه‌ها هم استفاده کنید. <annotation id="url">بیشتر بدانید</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">‏استفاده از Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">‏قفل صفحه پشتیبانی برای استفاده با Pixel Imprint انتخاب کنید</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">‏Pixel Imprint + الگو</string>
+  <string name="fingerprint_unlock_set_unlock_pin">‏Pixel Imprint + پین</string>
+  <string name="fingerprint_unlock_set_unlock_password">‏Pixel Imprint + گذرواژه</string>
+  <string name="fingerprint_unlock_skip_fingerprint">‏ادامه بدون Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">‏با Pixel Imprint، می‌توانید با استفاده از اثر انگشتتان قفل تلفنتان را باز کنید. بنا به دلایل ایمنی این گزینه مستلزم قفل صفحه پشتیبان است.</string>
+  <string name="automatic_storage_manager_text">‏زمانی که حافظه‌تان تقریباً پر است، عکس‌ها و ویدیوهای پشتیبان‌گیری‌شده پاک می‌شود. همچنان می‌توانید در Google photos آن‌ها را پیدا کنید.</string>
+  <string name="automatic_storage_manager_days_title">حذف عکس‌ها و ویدیوهای پشتیبان‌گیری‌شده</string>
+  <string name="automatic_storage_manager_preference_title">ذخیره‌سازی هوشمند</string>
+  <string name="gesture_preference_title">حرکات</string>
+  <string name="double_twist_for_camera_mode_summary">‏برای رفتن به حالت خودگرفت و خارج شدن از آن در «دوربین Google»، وقتی در برنامه هستید دستگاه را دو بار بچرخانید</string>
+  <string name="automatic_storage_manager_activation_warning">وقتی به اینترنت متصل باشید، همچنان می‌توانید به عکس‌ها و ویدیوها با کیفیتی که برای پشتیبان‌گیری انتخاب کرده‌اید دسترسی داشته باشید</string>
+</resources>

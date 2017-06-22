@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">შეეხეთ თითის ანაბეჭდის დასაყენებლად</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint თქვენს თითის ანაბეჭდს ტელეფონის გამოსაღვიძებლად და განსაბლოკად, შენაძენების ავტორიზაციისთვის თუ აპებში შესასვლელად იყენებს.
+
+ყურადღება მიაქციეთ იმას, თუ ვის თითის ანაბეჭდებს დაამატებთ, რადგან ამ მოქმედებების შესრულება ერთ დამატებულ ანაბეჭდსაც კი შეუძლია.
+
+შენიშვნა: თითის ანაბეჭდის გამოყენება შეიძლება ძლიერ ნიმუშზე ან PIN-კოდზე ნაკლებად საიმედო იყოს. "<annotation link="url">შეიტყვეთ მეტი</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint-ის მეშვებით, შენაძენების ავტორიზაციას ან აპებში შესვლას თითის ანაბეჭდით შეძლებთ.
+
+ყურადღება მიაქციეთ იმას, თუ ვის თითის ანაბეჭდებს დაამატებთ, რადგან ამ მოქმედებების შესრულება ნებისმიერ დამატებულ თითის ანაბეჭდს შეეძლება.
+
+გაითვალისწინეთ: ამ მოწყობილობის განსაბლოკად თითის ანაბეჭდს ვერ გამოიყენებთ. დამატებითი ინფორმაციისთვის, დაუკავშირდით თქვენი ორგანიზაციის ადმინისტრატორს."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint თქვენს თითის ანაბეჭდს ტელეფონის გამოსაღვიძებლად და განსაბლოკად, შენაძენების ავტორიზაციისთვის თუ აპებში შესასვლელად იყენებს.
+
+ყურადღება მიაქციეთ იმას, თუ ვის თითის ანაბეჭდებს დაამატებთ, რადგან ამ მოქმედებების შესრულება ნებისმიერ დამატებულ თითის ანაბეჭდს შეუძლია.
+
+შენიშვნა: თითის ანაბეჭდის გამოყენება შეიძლება ძლიერ ნიმუშზე ან PIN-კოდზე ნაკლებად საიმედო იყოს."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">მინიშნება: ის თქვენი ტელეფონის უკანა ნაწილზე მდებარეობს.</string>
+  <string name="setup_fingerprint_enroll_finish_message">თქვენი ტელეფონის გამოსაღვიძებლად და განსაბლოკად, უბრალოდ შეეხეთ Pixel Imprint-ის სენსორს.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">ტელეფონის განბლოკვასთან ერთად, Pixel Imprint-ის გამოყენება შენაძენების ან აპების წვდომის ავტორიზაციისთვის შეგიძლიათ. <annotation id="url">შეიტყვეთ მეტი</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Pixel Imprint-ის გამოყენება</string>
+  <string name="lock_settings_picker_fingerprint_message">აირჩიეთ ეკრანის დაბლოკვის სარეზერვო მეთოდი Pixel Imprint-ისთვის</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + ნიმუში</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN-კოდი</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + პაროლი</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Pixel Imprint-ის გარეშე გაგრძელება</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint-ის მეშვეობით, თქვენი ტელეფონის განბლოკვა თითის ანაბეჭდით შეგეძლებათ. უსაფრთხოების მოსაზრებებიდან გამომდინარე, ეს ვარიანტი ეკრანის დაბლოკვის სარეზერვო მეთოდსაც საჭიროებს.</string>
+  <string name="automatic_storage_manager_text">სარეზერვო ასლების მქონე ფოტოებისა და ვიდეოების ამოშლა. ამ ფაილების პოვნას Google Photos-ში შეძლებთ.</string>
+  <string name="automatic_storage_manager_days_title">სარეზერვო ასლების მქონე ფოტოებისა და ვიდეოების ამოშლა</string>
+  <string name="automatic_storage_manager_preference_title">გონიერი მეხსიერება</string>
+  <string name="gesture_preference_title">მოძრაობები</string>
+  <string name="double_twist_for_camera_mode_summary">Google კამერაში სელფის რეჟიმის ჩასართავად/გამოსართავად, აპში ყოფნისას შეასრულეთ ორმაგი მოტრიალება</string>
+  <string name="automatic_storage_manager_activation_warning">როცა ინტერნეტთან დაკავშირებული იქნებით, ფოტოები და ვიდეოები მაინც იქნება ხელმისაწვდომი იმ ხარისხით, რომელიც სარეზერვო ასლებისთვის აირჩიეთ</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Zum Einrichten des Fingerabdrucks tippen</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Mithilfe deines Fingerabdrucks kann Pixel Imprint dein Smartphone aktivieren und entsperren, Käufe autorisieren oder dich in Apps anmelden.
+
+Überlege genau, wessen Fingerabdrücke du hinzufügen möchtest, da diese Aktionen mit allen Fingerabdrücken ausgeführt werden können, die du deinem Smartphone hinzufügst.
+
+Hinweis: Dein Fingerabdruck ist unter Umständen nicht so sicher wie ein komplexes Muster oder eine PIN. "<annotation link="url">Weitere Informationen</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint ermöglicht dir, mithilfe deines Fingerabdrucks Käufe zu autorisieren oder dich in Apps anzumelden.
+
+Überlege dir gut, wessen Fingerabdrücke du hinzufügst. Mit jedem hinzugefügten Fingerabdruck können alle diese Aktionen durchgeführt werden.
+
+Hinweis: Dieses Gerät kann nicht mit deinem Fingerabdruck entsperrt werden. Weitere Informationen erhältst du vom Administrator deiner Organisation."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Mithilfe deines Fingerabdrucks kann Pixel Imprint dein Smartphone aktivieren und entsperren, Käufe autorisieren oder dich in Apps anmelden.
+
+Überlege genau, wessen Fingerabdrücke du hinzufügen möchtest, da diese Aktionen mit allen Fingerabdrücken ausgeführt werden können, die du deinem Smartphone hinzufügst.
+
+Hinweis: Dein Fingerabdruck ist unter Umständen nicht so sicher wie ein komplexes Muster oder eine PIN."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Hinweis: Der Sensor befindet sich auf der Rückseite deines Smartphones.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Berühre einfach den Pixel Imprint-Sensor, um dein Smartphone zu aktivieren und zu entsperren.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Du kannst mit Pixel Imprint nicht nur dein Smartphone entsperren, sondern auch Käufe und App-Zugriffe autorisieren. <annotation id="url">Weitere Informationen</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Pixel Imprint verwenden</string>
+  <string name="lock_settings_picker_fingerprint_message">Alternative Methode für die Displaysperre für Pixel Imprint auswählen</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Muster</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Passwort</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Ohne Pixel Imprint fortfahren</string>
+  <string name="fingerprint_unlock_title">Mit Pixel Imprint kannst du dein Smartphone mit deinem Fingerabdruck entsperren. Aus Sicherheitsgründen benötigst du bei dieser Option eine alternative Displaysperre.</string>
+  <string name="automatic_storage_manager_text">Lösche gesicherte Fotos und Videos, wenn der Speicher fast voll ist. Du kannst weiterhin über Google Fotos darauf zugreifen.</string>
+  <string name="automatic_storage_manager_days_title">Gesicherte Fotos und Videos entfernen</string>
+  <string name="automatic_storage_manager_preference_title">Intelligenter Speicher</string>
+  <string name="gesture_preference_title">Bewegungen</string>
+  <string name="double_twist_for_camera_mode_summary">Um in Google Kamera in den Selfie-Modus zu wechseln oder diesen zu beenden, drehe dein Smartphone bei geöffneter App zweimal</string>
+  <string name="automatic_storage_manager_activation_warning">Bei bestehender Verbindung kannst du weiterhin auf Fotos und Videos in der für die Sicherung ausgewählten Qualität zugreifen</string>
+</resources>

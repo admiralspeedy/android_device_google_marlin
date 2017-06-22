@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Klepnutím nastavíte odtlačok</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint používa odtlačok vášho prsta na zobudenie a odblokovanie telefónu, autorizovanie nákupov a prihlásenie do aplikácií.
+
+Dávajte pozor, čie odtlačky pridáte. Tieto operácie budú môcť vykonávať všetky odtlačky pridané do telefónu.
+
+Poznámka: Odtlačok môže byť menej bezpečný ako silný bezpečnostný vzor alebo kód PIN. "<annotation link="url">Ďalšie informácie</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Vďaka senzoru Pixel Imprint môžete autorizovať nákupy a prihlasovať sa do aplikácií pomocou odtlačku prsta.
+
+Dávajte pozor, čie odtlačky pridáte. Tieto operácie budú môcť vykonávať všetky pridané odtlačky.
+
+Poznámka: Odtlačok prsta nie je možné použiť na odomknutie tohto zariadenia. Ďalšie informácie vám poskytne správca vašej organizácie."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint používa odtlačok vášho prsta na zobudenie a odblokovanie telefónu, autorizovanie nákupov a prihlásenie do aplikácií.
+
+Dávajte pozor, čie odtlačky pridáte. Tieto operácie budú môcť vykonávať všetky odtlačky pridané do telefónu.
+
+Poznámka: Odtlačok môže byť menej bezpečný ako silný bezpečnostný vzor alebo kód PIN."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Tip: Nachádza sa na zadnej strane telefónu.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Telefón zobudíte a odomknete jednoducho tak, že sa dotknete senzora Pixel Imprint.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Okrem odomknutia telefónu môžete pomocou senzora Pixel Imprint autorizovať nákupy a prístup do aplikácií. <annotation id="url">Ďalšie informácie</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Používanie senzora Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Vyberte záložnú zámku obrazovky, ktorá sa použije so senzorom Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + vzor</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + heslo</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Pokračovať bez senzora Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Pomocou senzora Pixel Imprint môžete odomknúť zariadenie odtlačkom prsta. Táto možnosť vyžaduje z bezpečnostných dôvodov záložnú zámku obrazovky.</string>
+  <string name="automatic_storage_manager_text">Keď sa úložisko začne zapĺňať, funkcia odstráni zálohované fotky a videá. Obsah bude naďalej dostupný vo Fotkách Google.</string>
+  <string name="automatic_storage_manager_days_title">Odstránenie zálohovaných fotiek a videí</string>
+  <string name="automatic_storage_manager_preference_title">Inteligentné úložisko</string>
+  <string name="gesture_preference_title">Pohyby</string>
+  <string name="double_twist_for_camera_mode_summary">Vo Fotoaparáte Google môžete režim selfie aktivovať a deaktivovať dvojitým pretočením, keď máte túto aplikáciu spustenú</string>
+  <string name="automatic_storage_manager_activation_warning">Po pripojení budete mať aj naďalej prístup k fotkám a videám v kvalite vybratej pre zálohu</string>
+</resources>

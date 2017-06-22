@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">הקש כדי להגדיר טביעת אצבע</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"‏התכונה Pixel Imprint משתמשת בטביעת האצבע שלך כדי להוציא את הטלפון ממצב שינה ולבטל את הנעילה שלו, לאשר רכישות או להיכנס לאפליקציות.
+
+כשמוסיפים טביעות אצבע של משתמשים יש לפעול בזהירות, מפני שכל אדם שתוסיף את טביעת האצבע שלו יוכל לבצע את הפעולות האלה.
+
+שים לב: ייתכן ששימוש בטביעת אצבע יספק אבטחה חלשה יותר מאשר קו ביטול נעילה או קוד גישה חזקים. "<annotation link="url">למידע נוסף</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"‏עם Pixel Imprint תוכל להשתמש בטביעת האצבע שלך כדי לאשר רכישות או להיכנס לאפליקציות.
+
+בחר בקפידה את טביעות האצבע שתוסיף. הבעלים של כל טביעת אצבע שתוסיף יוכל לבצע את הפעולות האלה.
+
+שים לב: לא תוכל להשתמש בטביעת האצבע שלך כדי לבטל את הנעילה של מכשיר זה. לקבלת מידע נוסף, פנה למנהל המערכת בארגון שלך."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"‏התכונה Pixel Imprint משתמשת בטביעת האצבע שלך כדי להוציא את הטלפון ממצב שינה ולבטל את הנעילה שלו, לאשר רכישות או להיכנס לאפליקציות.
+
+כשמוסיפים טביעות אצבע של משתמשים יש לפעול בזהירות, מפני שכל אדם שתוסיף את טביעת האצבע שלו יוכל לבצע את הפעולות האלה.
+
+שים לב: ייתכן ששימוש בטביעת אצבע יספק אבטחה חלשה יותר מאשר קו ביטול נעילה או קוד גישה חזקים."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">רמז: הוא נמצא בגב הטלפון.</string>
+  <string name="setup_fingerprint_enroll_finish_message">‏גע בחיישן של Pixel Imprint כדי להוציא את הטלפון ממצב שינה ולבטל את הנעילה שלו.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">‏בנוסף לביטול נעילת הטלפון, ניתן להשתמש גם ב-Pixel Imprint כדי לאשר רכישות וגישה לאפליקציות. <annotation id="url">למידע נוסף</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">‏שימוש ב-Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">‏בחר שיטת נעילת מסך לגיבוי, לשימוש בנוסף ל-Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">‏Pixel Imprint + קו ביטול נעילה</string>
+  <string name="fingerprint_unlock_set_unlock_pin">‏Pixel Imprint + קוד גישה</string>
+  <string name="fingerprint_unlock_set_unlock_password">‏Pixel Imprint + סיסמה</string>
+  <string name="fingerprint_unlock_skip_fingerprint">‏המשך ללא Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">‏עם Pixel Imprint תוכל לנעול את הטלפון באמצעות טביעת אצבע. מטעמי אבטחה, אפשרות זו מחייבת נעילת מסך לגיבוי.</string>
+  <string name="automatic_storage_manager_text">‏כשהאחסון כמעט מלא, יש להסיר תמונות וסרטונים שגובו. ניתן עדיין למצוא אותם בתמונות Google.</string>
+  <string name="automatic_storage_manager_days_title">הסרת תמונות וסרטונים שגובו</string>
+  <string name="automatic_storage_manager_preference_title">אחסון חכם</string>
+  <string name="gesture_preference_title">תנועות</string>
+  <string name="double_twist_for_camera_mode_summary">‏כדי להיכנס למצב סלפי ולצאת ממנו במצלמת Google, אחוז במכשיר והפוך אותו פעמיים מצד לצד כשאתה משתמש באפליקציה</string>
+  <string name="automatic_storage_manager_activation_warning">כשאתה מחובר, אתה עדיין יכול לגשת לתמונות ולסרטונים באיכות שבחרת לגיבוי</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Píxel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Toca para configurar la huella digital</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Píxel Imprint utiliza tu huella dactilar para activar y desbloquear el teléfono, autorizar compras o iniciar sesión en aplicaciones.
+
+ Debes tener cuidado con los usuarios cuyas huellas incluyes, ya que tendrán autorización para realizar estas acciones.
+
+Nota: Es posible que tu huella digital sea menos segura que un PIN o un patrón que cumpla las sugerencias de seguridad. "<annotation link="url">Más información</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Con Pixel Imprint, puedes usar tu huella digital para autorizar compras o iniciar sesión en aplicaciones.
+
+Cualquier huella digital que añadas podrá realizar estas acciones, por lo que debes tener cuidado con las huellas que incluyes.
+
+Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para obtener más información, ponte en contacto con el administrador de tu organización."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Píxel Imprint utiliza tu huella dactilar para activar y desbloquear el teléfono, autorizar compras o iniciar sesión en aplicaciones.
+
+Debes tener cuidado con los usuarios cuyas huellas incluyes, ya que tendrán autorización para realizar estas acciones.
+
+Nota: Es posible que tu huella digital sea menos segura que un PIN o un patrón que cumpla las sugerencias de seguridad."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Sugerencia: Está en la parte trasera del teléfono.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Solo tienes que tocar el sensor de Píxel Imprint para activar y desbloquear el teléfono.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Además de desbloquear el teléfono, Píxel Imprint también permite autorizar compras y el acceso a aplicaciones. <annotation id="url">Más información</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Utilizar Píxel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Selecciona el bloqueo de pantalla alternativo que quieres usar con Píxel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Píxel Imprint + patrón</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Píxel Imprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Píxel Imprint + contraseña</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Continuar sin Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Pixel Imprint te permite desbloquear el teléfono con tu huella digital. Por motivos de seguridad, para utilizar esta opción necesitas un método de bloqueo de pantalla alternativo.</string>
+  <string name="automatic_storage_manager_text">Si el almacenamiento está prácticamente lleno, elimina los vídeos y las fotos que ya tengan copia de seguridad. Este contenido sigue estando disponible en Google Fotos.</string>
+  <string name="automatic_storage_manager_days_title">Borrar vídeos y fotos con copia de seguridad</string>
+  <string name="automatic_storage_manager_preference_title">Almacenamiento inteligente</string>
+  <string name="gesture_preference_title">Movimientos</string>
+  <string name="double_twist_for_camera_mode_summary">Gira el dispositivo dos veces en la aplicación Cámara de Google para activar o desactivar el modo selfie</string>
+  <string name="automatic_storage_manager_activation_warning">Cuando te conectes, podrás seguir accediendo a fotos y vídeos con la calidad que hayas seleccionado para la copia de seguridad</string>
+</resources>

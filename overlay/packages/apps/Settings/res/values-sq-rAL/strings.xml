@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_preference_summary_none">Trokit për të konfiguruar gjurmën e gishtit</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint përdor gjurmën e gishtit për të zgjuar dhe shkyçur telefonin, për të autorizuar blerjet ose për t'u identifikuar tek aplikacionet.
+
+Trego kujdes se gjurmët e kujt shton. Çdo gjurmë gishti e shtuar do të mund t'i kryejë këto gjëra.
+
+Shënim. Gjurma e gishtit mund të jetë më pak e sigurt se një motiv ose PIN i fortë. "<annotation link="url">Mëso më shumë</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Me Pixel Imprint, mund të përdorësh gjurmën e gishtit për të autorizuar blerjet ose për t'u identifikuar tek aplikacionet.
+
+Trego kujdes se gjurmët e kujt shton. Çdo gjurmë gishti e shtuar do të mund t'i kryejë këto gjëra.
+
+Shënim: Nuk mund ta përdorësh gjurmën tënde të gishtit për të shkyçur këtë pajisje. Për më shumë informacione, kontakto me administratorin e organizatës tënde."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint përdor gjurmën e gishtit për të zgjuar dhe shkyçur telefonin, për të autorizuar blerjet ose për t'u identifikuar tek aplikacionet.
+
+Trego kujdes se gjurmët e kujt shton. Çdo gjurmë gishti e shtuar do të mund t'i kryejë këto gjëra.
+
+Shënim. Gjurma e gishtit mund të jetë më pak e sigurt se një motiv ose PIN i fortë."</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Këshillë: Ndodhet në pjesën e pasme të telefonit.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Mjafton të prekësh sensorin e Pixel Imprint për të zgjuar dhe shkyçur telefonin.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Përveç shkyçjes së telefonit, Pixel Imprint mund ta përdorësh edhe për të autorizuar blerjet dhe qasjen në aplikacione. <annotation id="url">Mëso më shumë</annotation></string>
+  <string name="suggested_fingerprint_lock_settings_title">Përdorimi i Pixel Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Zgjidh një kyçje rezervë të ekranit për ta përdorur me Pixel Imprint</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + Motivi</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Pixel Imprint + Kodi PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + Fjalëkalimi</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Vazhdo pa Pixel Imprint</string>
+  <string name="fingerprint_unlock_title">Me Pixel Imprint, mund ta shkyçësh telefonin duke përdorur gjurmën e gishtit. Për siguri, ky opsion kërkon një kyçje rezervë të ekranit.</string>
+  <string name="automatic_storage_manager_text">"Kur hapësira ruajtëse të jetë thuajse plot, hiqni fotografitë dhe videot e rezervuara. Mund t'i gjeni përsëri te \"Fotografitë e Google\"."</string>
+  <string name="automatic_storage_manager_days_title">Fotografitë dhe videot e rezervuara</string>
+  <string name="automatic_storage_manager_preference_title">Hapësira ruajtëse inteligjente</string>
+  <string name="gesture_preference_title">Lëvizjet</string>
+  <string name="double_twist_for_camera_mode_summary">Për të hyrë dhe dalë nga modaliteti për \"selfie\" në Kamerën e Google, përdridhe dy herë kur ndodhesh në aplikacion</string>
+  <string name="automatic_storage_manager_activation_warning">Kur të jesh i lidhur, mund të kesh përsëri qasje te fotografitë dhe videot me cilësinë që ke zgjedhur për rezervimin</string>
+</resources>
