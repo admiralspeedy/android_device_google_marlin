@@ -12,7 +12,7 @@ $(call inherit-product, device/google/marlin/aosp_marlin.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := lineage_marlin
-PRODUCT_BRAND := google
+PRODUCT_BRAND := Google
 PRODUCT_MODEL := Pixel XL
 TARGET_MANUFACTURER := HTC
 PRODUCT_RESTRICT_VENDOR_FILES := false
