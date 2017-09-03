@@ -22,6 +22,38 @@ PRODUCT_SHIPPING_API_LEVEL := 24
 
 DEVICE_PACKAGE_OVERLAYS += device/google/marlin/overlay
 
+#Open GApps
+GAPPS_VARIANT := stock
+
+GAPPS_EXCLUDED_PACKAGES := \
+    GoogleHome \
+    PlusOne \
+    Hangouts \
+    CloudPrint2 \
+    EditorsDocs \
+    Drive \
+    PrebuiltKeep \
+    PrebuiltNewsWeather \
+    Books \
+    Videos \
+    Newsstand \
+    EditorsSheets \
+    EditorsSlides \
+    talkback
+
+PRODUCT_PACKAGES += PixelLauncher
+PRODUCT_PACKAGES += PixelLauncherIcons
+PRODUCT_PACKAGES += Wallpapers
+PRODUCT_PACKAGES += Wallet
+
+GAPPS_BYPASS_PACKAGE_OVERRIDES := \
+    Music2 \
+    Photos
+
+GAPPS_FORCE_PIXEL_LAUNCHER := true
+
+$(call inherit-product-if-exists, vendor/opengapps/build/opengapps-packages.mk)
+
 # Pixel build.prop
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.opa.eligible_device=true \
